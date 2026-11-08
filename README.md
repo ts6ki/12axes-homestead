@@ -44,7 +44,7 @@ The site is plain HTML with no build step. Fonts load from Google Fonts. `.nojek
 
 - **Position scale:** 0 = fully toward the first pole of an axis (Federal, Public, Democracy, Planning, Security, Protectionism, Assimilation, Irreligious, Militarist, Progressive, Non-interventionist, Technology), 100 = fully toward the second pole, 50 = the report says *Balanced* (no number is given).
 - **Compass (page 1):** economic = average of Economy and Control; authority = average of Representation and the security side of Power.
-- **Homestead:** for each axis, average the three people furthest toward each pole and keep the stronger side. **Other Homestead** keeps the weaker side. Both use 11 of the 12 members.
+- **Homestead:** for each axis, average the three people furthest toward each pole and keep the stronger side. **Other Homestead** keeps the weaker side. Both use 12 of the 13 members (deus(ss) excluded).
 - **Reference figures** (Mao Zedong, Adolf Hitler, Donald Trump, Xi Jinping) use the 12-axis values on the site's public personality pages.
 
 ## Sources

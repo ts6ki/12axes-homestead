@@ -131,17 +131,28 @@ angry,closest,8,Louis Auguste Blanqui,90
 angry,furthest,1,Chase Oliver,
 angry,furthest,2,Ron Paul,
 angry,furthest,3,Ezra Heywood,
+zab,closest,1,Andrzej Duda,93
+zab,closest,2,Dominik Tarczyński,93
+zab,closest,3,Charles de Gaulle,92
+zab,closest,4,Steve Bannon,92
+zab,closest,5,André Ventura,91
+zab,closest,6,Victor Emmanuel III,91
+zab,closest,7,Cicero,91
+zab,closest,8,Jan III Sobieski,90
+zab,furthest,1,Subcomandante Marcos,
+zab,furthest,2,Ezra Heywood,
+zab,furthest,3,Satoshi Nakamoto,
 Homestead,closest,1,Leonid Brezhnev,97
-Homestead,closest,2,Xi Jinping,96
-Homestead,closest,3,Kim Jong Un,94
-Homestead,closest,4,Floriano Peixoto,93
-Homestead,closest,5,Fidel Castro,93
-Homestead,closest,6,Ramiro Ledesma Ramos,93
-Homestead,closest,7,Joseph Stalin,93
-Homestead,closest,8,Mao Zedong,92
+Homestead,closest,2,Xi Jinping,95
+Homestead,closest,3,Kim Jong Un,95
+Homestead,closest,4,Joseph Stalin,93
+Homestead,closest,5,Joseph Goebbels,93
+Homestead,closest,6,Floriano Peixoto,92
+Homestead,closest,7,Ramiro Ledesma Ramos,91
+Homestead,closest,8,Fidel Castro,91
 Homestead,furthest,1,Bob Dylan,
 Homestead,furthest,2,Diogenes of Sinope,
-Homestead,furthest,3,Muhammad Ali,
+Homestead,furthest,3,Michael Jackson,
 Other Homestead,closest,1,Bob Dylan,93
 Other Homestead,closest,2,Jimmy Carter,91
 Other Homestead,closest,3,Charles III,91

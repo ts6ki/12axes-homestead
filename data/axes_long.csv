@@ -143,17 +143,29 @@ angry,member,Diplomacy,Militarist,Pacifist,21,79% Militarist,dip,79,12 Axes repo
 angry,member,Morality,Progressive,Traditionalist,50,Balanced,mor,50,12 Axes report
 angry,member,Intervention,Non-interventionist,Nationalist,97,97% Nationalist,int,3,12 Axes report
 angry,member,Technology,Technology,Biology,32,68% Technology,tec,68,12 Axes report
-Homestead,synthetic,Structure,Federal,Unitary,77,77% Unitary,est,23,12 Axes report for computed values
+zab,member,Structure,Federal,Unitary,80,80% Unitary,est,20,12 Axes report
+zab,member,Economy,Public,Private,39,61% Public,eco,61,12 Axes report
+zab,member,Representation,Democracy,Autocracy,50,Balanced,rep,50,12 Axes report
+zab,member,Control,Planning,Free market,50,Balanced,con,50,12 Axes report
+zab,member,Power,Security,Liberty,50,Balanced,pod,50,12 Axes report
+zab,member,Trade,Protectionism,Globalism,50,Balanced,com,50,12 Axes report
+zab,member,Immigration,Assimilation,Multiculturalism,3,97% Assimilation,imi,97,12 Axes report
+zab,member,Religion,Irreligious,Religious,68,68% Religious,rel,32,12 Axes report
+zab,member,Diplomacy,Militarist,Pacifist,32,68% Militarist,dip,68,12 Axes report
+zab,member,Morality,Progressive,Traditionalist,94,94% Traditionalist,mor,6,12 Axes report
+zab,member,Intervention,Non-interventionist,Nationalist,85,85% Nationalist,int,15,12 Axes report
+zab,member,Technology,Technology,Biology,50,Balanced,tec,50,12 Axes report
+Homestead,synthetic,Structure,Federal,Unitary,81,81% Unitary,est,19,12 Axes report for computed values
 Homestead,synthetic,Economy,Public,Private,15,85% Public,eco,85,12 Axes report for computed values
 Homestead,synthetic,Representation,Democracy,Autocracy,86,86% Autocracy,rep,14,12 Axes report for computed values
 Homestead,synthetic,Control,Planning,Free market,20,80% Planning,con,80,12 Axes report for computed values
 Homestead,synthetic,Power,Security,Liberty,27,73% Security,pod,73,12 Axes report for computed values
 Homestead,synthetic,Trade,Protectionism,Globalism,31,69% Protectionism,com,69,12 Axes report for computed values
-Homestead,synthetic,Immigration,Assimilation,Multiculturalism,20,80% Assimilation,imi,80,12 Axes report for computed values
+Homestead,synthetic,Immigration,Assimilation,Multiculturalism,12,88% Assimilation,imi,88,12 Axes report for computed values
 Homestead,synthetic,Religion,Irreligious,Religious,4,96% Irreligious,rel,96,12 Axes report for computed values
 Homestead,synthetic,Diplomacy,Militarist,Pacifist,20,80% Militarist,dip,80,12 Axes report for computed values
-Homestead,synthetic,Morality,Progressive,Traditionalist,83,83% Traditionalist,mor,17,12 Axes report for computed values
-Homestead,synthetic,Intervention,Non-interventionist,Nationalist,89,89% Nationalist,int,11,12 Axes report for computed values
+Homestead,synthetic,Morality,Progressive,Traditionalist,91,91% Traditionalist,mor,9,12 Axes report for computed values
+Homestead,synthetic,Intervention,Non-interventionist,Nationalist,90,90% Nationalist,int,10,12 Axes report for computed values
 Homestead,synthetic,Technology,Technology,Biology,18,82% Technology,tec,82,12 Axes report for computed values
 Other Homestead,synthetic,Structure,Federal,Unitary,36,64% Federal,est,64,12 Axes report for computed values
 Other Homestead,synthetic,Economy,Public,Private,69,69% Private,eco,31,12 Axes report for computed values

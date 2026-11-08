@@ -242,18 +242,32 @@
    "Intervention": 97,
    "Technology": 32
   },
+  "zab": {
+   "Structure": 80,
+   "Economy": 39,
+   "Representation": 50,
+   "Control": 50,
+   "Power": 50,
+   "Trade": 50,
+   "Immigration": 3,
+   "Religion": 68,
+   "Diplomacy": 32,
+   "Morality": 94,
+   "Intervention": 85,
+   "Technology": 50
+  },
   "Homestead": {
-   "Structure": 77,
+   "Structure": 81,
    "Economy": 15,
    "Representation": 86,
    "Control": 20,
    "Power": 27,
    "Trade": 31,
-   "Immigration": 20,
+   "Immigration": 12,
    "Religion": 4,
    "Diplomacy": 20,
-   "Morality": 83,
-   "Intervention": 89,
+   "Morality": 91,
+   "Intervention": 90,
    "Technology": 18
   },
   "Other Homestead": {
@@ -557,23 +571,42 @@
    "top_reading": "Thomas Hobbes, Leviathan (1651)"
   },
   {
+   "name": "zab",
+   "type": "member",
+   "ideology_family": "Right",
+   "top_ideology": "National Conservatism",
+   "top_match_pct": 93.1,
+   "closest_country": "Poland (93%)",
+   "historical_country": "Kingdom of Italy (91%)",
+   "closest_figure": "Andrzej Duda (93%)",
+   "active_party": "Azov Battalion (93%)",
+   "historical_party": "Conservative Party of the Empire (Saquaremas) (91%)",
+   "most_compatible_era": "21st century (92%)",
+   "compass_label": "Center-right with Strongly traditionalist social values",
+   "furthest_ideology": "Crypto-Anarchism",
+   "other_ideology_1": "Right-Wing Populism",
+   "other_ideology_2": "Alt-Lite",
+   "other_ideology_3": "Nationalism",
+   "top_reading": "Charles de Gaulle, The Edge of the Sword (1932)"
+  },
+  {
    "name": "Homestead",
    "type": "synthetic",
    "ideology_family": "Third Position",
-   "top_ideology": "National Bolshevism (NazBol)",
-   "top_match_pct": 95.7,
-   "closest_country": "China (94%)",
+   "top_ideology": "Red Fascism",
+   "top_match_pct": 94.7,
+   "closest_country": "China (93%)",
    "historical_country": "Samora Machel's Mozambique (95%)",
    "closest_figure": "Leonid Brezhnev (97%)",
    "active_party": "Chinese Communist Party (94%)",
-   "historical_party": "Rastakhiz Party (94%)",
-   "most_compatible_era": "20th century (94%)",
+   "historical_party": "Red Army (94%)",
+   "most_compatible_era": "20th century (93%)",
    "compass_label": "Third position with Strongly traditionalist social values",
    "furthest_ideology": "Federalism",
-   "other_ideology_1": "Red Fascism",
+   "other_ideology_1": "National Bolshevism (NazBol)",
    "other_ideology_2": "Stalinist Socialism",
    "other_ideology_3": "National Communism",
-   "top_reading": "Fidel Castro, History Will Absolve Me (1953)"
+   "top_reading": "Joseph Stalin, The Foundations of Leninism (1924)"
   },
   {
    "name": "Other Homestead",
@@ -1521,6 +1554,83 @@
    "match_pct": ""
   },
   {
+   "name": "zab",
+   "list": "closest",
+   "rank": 1,
+   "figure": "Andrzej Duda",
+   "match_pct": 93
+  },
+  {
+   "name": "zab",
+   "list": "closest",
+   "rank": 2,
+   "figure": "Dominik Tarczyński",
+   "match_pct": 93
+  },
+  {
+   "name": "zab",
+   "list": "closest",
+   "rank": 3,
+   "figure": "Charles de Gaulle",
+   "match_pct": 92
+  },
+  {
+   "name": "zab",
+   "list": "closest",
+   "rank": 4,
+   "figure": "Steve Bannon",
+   "match_pct": 92
+  },
+  {
+   "name": "zab",
+   "list": "closest",
+   "rank": 5,
+   "figure": "André Ventura",
+   "match_pct": 91
+  },
+  {
+   "name": "zab",
+   "list": "closest",
+   "rank": 6,
+   "figure": "Victor Emmanuel III",
+   "match_pct": 91
+  },
+  {
+   "name": "zab",
+   "list": "closest",
+   "rank": 7,
+   "figure": "Cicero",
+   "match_pct": 91
+  },
+  {
+   "name": "zab",
+   "list": "closest",
+   "rank": 8,
+   "figure": "Jan III Sobieski",
+   "match_pct": 90
+  },
+  {
+   "name": "zab",
+   "list": "furthest",
+   "rank": 1,
+   "figure": "Subcomandante Marcos",
+   "match_pct": ""
+  },
+  {
+   "name": "zab",
+   "list": "furthest",
+   "rank": 2,
+   "figure": "Ezra Heywood",
+   "match_pct": ""
+  },
+  {
+   "name": "zab",
+   "list": "furthest",
+   "rank": 3,
+   "figure": "Satoshi Nakamoto",
+   "match_pct": ""
+  },
+  {
    "name": "Homestead",
    "list": "closest",
    "rank": 1,
@@ -1532,49 +1642,49 @@
    "list": "closest",
    "rank": 2,
    "figure": "Xi Jinping",
-   "match_pct": 96
+   "match_pct": 95
   },
   {
    "name": "Homestead",
    "list": "closest",
    "rank": 3,
    "figure": "Kim Jong Un",
-   "match_pct": 94
+   "match_pct": 95
   },
   {
    "name": "Homestead",
    "list": "closest",
    "rank": 4,
-   "figure": "Floriano Peixoto",
-   "match_pct": 93
-  },
-  {
-   "name": "Homestead",
-   "list": "closest",
-   "rank": 5,
-   "figure": "Fidel Castro",
-   "match_pct": 93
-  },
-  {
-   "name": "Homestead",
-   "list": "closest",
-   "rank": 6,
-   "figure": "Ramiro Ledesma Ramos",
-   "match_pct": 93
-  },
-  {
-   "name": "Homestead",
-   "list": "closest",
-   "rank": 7,
    "figure": "Joseph Stalin",
    "match_pct": 93
   },
   {
    "name": "Homestead",
    "list": "closest",
-   "rank": 8,
-   "figure": "Mao Zedong",
+   "rank": 5,
+   "figure": "Joseph Goebbels",
+   "match_pct": 93
+  },
+  {
+   "name": "Homestead",
+   "list": "closest",
+   "rank": 6,
+   "figure": "Floriano Peixoto",
    "match_pct": 92
+  },
+  {
+   "name": "Homestead",
+   "list": "closest",
+   "rank": 7,
+   "figure": "Ramiro Ledesma Ramos",
+   "match_pct": 91
+  },
+  {
+   "name": "Homestead",
+   "list": "closest",
+   "rank": 8,
+   "figure": "Fidel Castro",
+   "match_pct": 91
   },
   {
    "name": "Homestead",
@@ -1594,7 +1704,7 @@
    "name": "Homestead",
    "list": "furthest",
    "rank": 3,
-   "figure": "Muhammad Ali",
+   "figure": "Michael Jackson",
    "match_pct": ""
   },
   {
@@ -2001,30 +2111,57 @@
    ]
   },
   {
-   "name": "Homestead",
+   "name": "zab",
    "places": [
-    "China",
-    "Chongqing (China)",
-    "North Korea",
-    "Belarus",
-    "Cuba",
-    "Russia",
-    "Rwanda",
-    "Shenzhen (China)",
-    "Tajikistan",
-    "Vietnam"
+    "Poland",
+    "Croatia",
+    "Bulgaria",
+    "Lithuania",
+    "Armenia",
+    "Latvia",
+    "Hungary",
+    "El Salvador",
+    "Ukraine",
+    "Tajikistan"
    ],
    "match_pct": [
-    94,
-    91,
-    90,
+    93,
+    88,
+    87,
+    87,
+    87,
     87,
     86,
     85,
     84,
+    84
+   ]
+  },
+  {
+   "name": "Homestead",
+   "places": [
+    "China",
+    "North Korea",
+    "Chongqing (China)",
+    "Belarus",
+    "Russia",
+    "Cuba",
+    "Rwanda",
+    "Tajikistan",
+    "Shenzhen (China)",
+    "Vietnam"
+   ],
+   "match_pct": [
+    93,
+    91,
+    89,
+    86,
+    85,
     83,
     83,
-    82
+    82,
+    81,
+    81
    ]
   },
   {
@@ -2921,6 +3058,78 @@
    "guess_borrowed_from": ""
   },
   {
+   "name": "zab",
+   "seat": "Political leader",
+   "holder": "Andrzej Duda",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "zab",
+   "seat": "Deputy political leader",
+   "holder": "Dominik Tarczyński",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "zab",
+   "seat": "Head of Economy",
+   "holder": "Friedrich List",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "zab",
+   "seat": "Head of Education",
+   "holder": "Olavo de Carvalho",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "zab",
+   "seat": "Chief of Political Strategy",
+   "holder": "Julius Evola",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "zab",
+   "seat": "Philosophical Adviser",
+   "holder": "Martin Heidegger",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "zab",
+   "seat": "Coordinator of Social Affairs",
+   "holder": "Steve Bannon",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "zab",
+   "seat": "Coordinator of Industry and Innovation",
+   "holder": "Henry Clay Frick",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "zab",
+   "seat": "Cultural Adviser",
+   "holder": "Thomas Aquinas",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
    "name": "Homestead",
    "seat": "Political leader",
    "holder": "Leonid Brezhnev",
@@ -2957,8 +3166,8 @@
    "seat": "Chief of Political Strategy",
    "holder": "Ramiro Ledesma Ramos",
    "source": "12 Axes report",
-   "friend_based_guess": "Ernst Niekisch",
-   "guess_borrowed_from": "mockas"
+   "friend_based_guess": "Ferdinand Lassalle",
+   "guess_borrowed_from": "angry"
   },
   {
    "name": "Homestead",
@@ -2987,7 +3196,7 @@
   {
    "name": "Homestead",
    "seat": "Cultural Adviser",
-   "holder": "Auguste Comte",
+   "holder": "Confucius",
    "source": "12 Axes report",
    "friend_based_guess": "Auguste Comte",
    "guess_borrowed_from": "angry"
@@ -3072,10 +3281,10 @@
    "first_pole_top3": "vald 77 · waqst 65 · mockas bal",
    "first_pole_avg": 64.0,
    "second_pole": "Unitary",
-   "second_pole_top3": "zeno 85 · angry 78 · tsuki 68",
-   "second_pole_avg": 77.0,
+   "second_pole_top3": "zeno 85 · zab 80 · angry 78",
+   "second_pole_avg": 81.0,
    "homestead_side": "Unitary",
-   "homestead_value": 77.0,
+   "homestead_value": 81.0,
    "other_homestead_side": "Federal",
    "other_homestead_value": 64.0
   },
@@ -3147,13 +3356,13 @@
   {
    "axis": "Immigration",
    "first_pole": "Assimilation",
-   "first_pole_top3": "kri 89 · pbc 79 · vald 72",
-   "first_pole_avg": 80.0,
+   "first_pole_top3": "zab 97 · kri 89 · pbc 79",
+   "first_pole_avg": 88.3,
    "second_pole": "Multiculturalism",
    "second_pole_top3": "tsuki 62 · waqst bal · maple bal",
    "second_pole_avg": 54.0,
    "homestead_side": "Assimilation",
-   "homestead_value": 80.0,
+   "homestead_value": 88.3,
    "other_homestead_side": "Multiculturalism",
    "other_homestead_value": 54.0
   },
@@ -3189,10 +3398,10 @@
    "first_pole_top3": "dumfries 79 · zeno 75 · tsuki 74",
    "first_pole_avg": 76.0,
    "second_pole": "Traditionalist",
-   "second_pole_top3": "vald 90 · kri 90 · pbc 70",
-   "second_pole_avg": 83.3,
+   "second_pole_top3": "zab 94 · vald 90 · kri 90",
+   "second_pole_avg": 91.3,
    "homestead_side": "Traditionalist",
-   "homestead_value": 83.3,
+   "homestead_value": 91.3,
    "other_homestead_side": "Progressive",
    "other_homestead_value": 76.0
   },
@@ -3202,10 +3411,10 @@
    "first_pole_top3": "waqst 63 · dumfries bal · vald bal",
    "first_pole_avg": 54.3,
    "second_pole": "Nationalist",
-   "second_pole_top3": "angry 97 · mockas 89 · minepro 81",
-   "second_pole_avg": 89.0,
+   "second_pole_top3": "angry 97 · mockas 89 · zab 85",
+   "second_pole_avg": 90.3,
    "homestead_side": "Nationalist",
-   "homestead_value": 89.0,
+   "homestead_value": 90.3,
    "other_homestead_side": "Non-interventionist",
    "other_homestead_value": 54.3
   },
@@ -3225,9 +3434,9 @@
  ],
  "notes": {
   "position_scale": "0 = fully toward the first pole, 100 = fully toward the second pole, 50 = Balanced",
-  "homestead_members": "Homestead and Other Homestead are computed from 11 members (deus(ss) excluded).",
+  "homestead_members": "Homestead and Other Homestead are computed from 12 members (deus(ss) excluded).",
   "site_links": {
-   "Homestead": "https://12axes.vercel.app/results?est=23&rep=14&pod=73&imi=80&dip=80&int=11&eco=85&con=80&com=69&rel=96&mor=17&tec=82&lang=en",
+   "Homestead": "https://12axes.vercel.app/results?est=19&rep=14&pod=73&imi=88&dip=80&int=10&eco=85&con=80&com=69&rel=96&mor=9&tec=82&lang=en",
    "Other Homestead": "https://12axes.vercel.app/results?est=64&rep=83&pod=29&imi=46&dip=45&int=54&eco=31&con=38&com=36&rel=22&mor=76&tec=32&lang=en"
   }
  }
