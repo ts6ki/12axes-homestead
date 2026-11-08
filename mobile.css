@@ -16,7 +16,7 @@
   /* Rows of side-by-side items wrap instead of running off screen. */
   #stage [style*="display: flex"]:not([style*="flex-direction: column"]):not([style*="; height:"]){flex-wrap:wrap;row-gap:8px}
   #stage [style*="gap: 32px"],#stage [style*="gap: 40px"],#stage [style*="gap: 48px"],#stage [style*="gap: 56px"]{column-gap:16px!important}
-  #stage [style*="text-align: right"]:not(span:only-child){text-align:left!important}
+  #stage [style*="text-align: right"]:not(span:only-child):not([style*="position: absolute"]){text-align:left!important}
 
   /* Type scale */
   #stage h1{font-size:40px!important;line-height:1.02!important}
