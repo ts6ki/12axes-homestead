@@ -1,0 +1,155 @@
+name,list,rank,figure,match_pct
+mockas,closest,1,Sergei Korolev,88
+mockas,closest,2,Gabriele D'Annunzio,87
+mockas,closest,3,Nikita Khrushchev,87
+mockas,closest,4,Ernst Niekisch,87
+mockas,closest,5,Ho Chi Minh,87
+mockas,closest,6,Nicola Bombacci,86
+mockas,closest,7,Ernst Jünger,86
+mockas,closest,8,Frederick the Great,86
+mockas,furthest,1,Ron Paul,
+mockas,furthest,2,Ezra Heywood,
+mockas,furthest,3,Chase Oliver,
+deus(ss),closest,1,Joseph Goebbels,100
+deus(ss),closest,2,Adolf Hitler,95
+deus(ss),closest,3,Kim Jong Un,95
+deus(ss),closest,4,Joseph Stalin,95
+deus(ss),closest,5,Benito Mussolini,94
+deus(ss),closest,6,Qin Shi Huang,93
+deus(ss),closest,7,Giovanni Gentile,93
+deus(ss),closest,8,Leonid Brezhnev,93
+deus(ss),furthest,1,Diogenes of Sinope,
+deus(ss),furthest,2,Bob Dylan,
+deus(ss),furthest,3,Michael Jackson,
+minepro,closest,1,Max Weber,92
+minepro,closest,2,Alex Karp,91
+minepro,closest,3,Emmanuel Macron,90
+minepro,closest,4,Gabriele D'Annunzio,89
+minepro,closest,5,Georges Danton,89
+minepro,closest,6,Linus Torvalds,88
+minepro,closest,7,Volodymyr Zelensky,88
+minepro,closest,8,Renan Santos,88
+minepro,furthest,1,Bob Marley,
+minepro,furthest,2,Subcomandante Marcos,
+minepro,furthest,3,Gerrard Winstanley,
+kri,closest,1,Jair Bolsonaro,95
+kri,closest,2,Carlos Lacerda,94
+kri,closest,3,Flávio Bolsonaro,93
+kri,closest,4,Johannes Kaiser,91
+kri,closest,5,Henry Clay Frick,91
+kri,closest,6,John D. Rockefeller,91
+kri,closest,7,John Howard,91
+kri,closest,8,Winston Churchill,91
+kri,furthest,1,Subcomandante Marcos,
+kri,furthest,2,Élisée Reclus,
+kri,furthest,3,José Bové,
+waqst,closest,1,John Locke,97
+waqst,closest,2,Montesquieu,94
+waqst,closest,3,Richard Rasmussen,93
+waqst,closest,4,James Madison,93
+waqst,closest,5,Otto von Habsburg,93
+waqst,closest,6,Benjamin Franklin,93
+waqst,closest,7,Luiz Felipe Pondé,92
+waqst,closest,8,Joe Rogan,92
+waqst,furthest,1,Joseph Stalin,
+waqst,furthest,2,Pol Pot,
+waqst,furthest,3,Joseph Goebbels,
+dumfries,closest,1,Olaf Scholz,96
+dumfries,closest,2,José Serra,95
+dumfries,closest,3,Rafael Fonteles,95
+dumfries,closest,4,Jonas Gahr Støre,95
+dumfries,closest,5,Fernando Haddad,94
+dumfries,closest,6,Kalevi Sorsa,94
+dumfries,closest,7,Gabriel Boric,94
+dumfries,closest,8,Pedro Sánchez,94
+dumfries,furthest,1,Pol Pot,
+dumfries,furthest,2,Heinrich Himmler,
+dumfries,furthest,3,Joseph Goebbels,
+vald,closest,1,Martin Luther,94
+vald,closest,2,Otto Strasser,94
+vald,closest,3,René Guénon,93
+vald,closest,4,Thomas Müntzer,92
+vald,closest,5,Charlemagne,92
+vald,closest,6,Muammar Gaddafi,91
+vald,closest,7,Engelbert Dollfuss,90
+vald,closest,8,Raphael Machado,90
+vald,furthest,1,Ezra Heywood,
+vald,furthest,2,Satoshi Nakamoto,
+vald,furthest,3,Chase Oliver,
+zeno,closest,1,Samora Machel,91
+zeno,closest,2,Ho Chi Minh,91
+zeno,closest,3,Mao Zedong,91
+zeno,closest,4,Ernst Niekisch,91
+zeno,closest,5,Zhou Enlai,90
+zeno,closest,6,Fidel Castro,90
+zeno,closest,7,Mustafa Kemal Atatürk,89
+zeno,closest,8,János Kádár,89
+zeno,furthest,1,Ron Paul,
+zeno,furthest,2,Frédéric Bastiat,
+zeno,furthest,3,Rand Paul,
+pbc,closest,1,Tiberius Gracchus,94
+pbc,closest,2,Gaius Gracchus,93
+pbc,closest,3,Cabo Daciolo,89
+pbc,closest,4,Andrzej Duda,89
+pbc,closest,5,Tucker Carlson,88
+pbc,closest,6,Michael Collins,87
+pbc,closest,7,Péter Magyar,87
+pbc,closest,8,Itamar Franco,86
+pbc,furthest,1,Ezra Heywood,
+pbc,furthest,2,Satoshi Nakamoto,
+pbc,furthest,3,Samuel Edward Konkin III,
+maple,closest,1,Keir Starmer,95
+maple,closest,2,John Healey,93
+maple,closest,3,Giuseppe Garibaldi,91
+maple,closest,4,Emmanuel Macron,90
+maple,closest,5,Olaf Scholz,90
+maple,closest,6,Rob Jetten,90
+maple,closest,7,Georges Danton,89
+maple,closest,8,François Mitterrand,89
+maple,furthest,1,Paulo Kogos,
+maple,furthest,2,Ron Paul,
+maple,furthest,3,Hans-Hermann Hoppe,
+tsuki,closest,1,Mark Zuckerberg,94
+tsuki,closest,2,Jeff Bezos,92
+tsuki,closest,3,Renan Santos,90
+tsuki,closest,4,Alex Karp,90
+tsuki,closest,5,Max Weber,89
+tsuki,closest,6,Reza Pahlavi,89
+tsuki,closest,7,Mark Rutte,89
+tsuki,closest,8,J. Robert Oppenheimer,88
+tsuki,furthest,1,John Ball,
+tsuki,furthest,2,Gerrard Winstanley,
+tsuki,furthest,3,Bob Marley,
+angry,closest,1,Thomas Hobbes,91
+angry,closest,2,Max Weber,91
+angry,closest,3,Frederick the Great,91
+angry,closest,4,Eduard Limonov,90
+angry,closest,5,Sergei Korolev,90
+angry,closest,6,Józef Piłsudski,90
+angry,closest,7,Georges Danton,90
+angry,closest,8,Louis Auguste Blanqui,90
+angry,furthest,1,Chase Oliver,
+angry,furthest,2,Ron Paul,
+angry,furthest,3,Ezra Heywood,
+Homestead,closest,1,Leonid Brezhnev,97
+Homestead,closest,2,Xi Jinping,96
+Homestead,closest,3,Kim Jong Un,94
+Homestead,closest,4,Floriano Peixoto,93
+Homestead,closest,5,Fidel Castro,93
+Homestead,closest,6,Ramiro Ledesma Ramos,93
+Homestead,closest,7,Joseph Stalin,93
+Homestead,closest,8,Mao Zedong,92
+Homestead,furthest,1,Bob Dylan,
+Homestead,furthest,2,Diogenes of Sinope,
+Homestead,furthest,3,Muhammad Ali,
+Other Homestead,closest,1,Bob Dylan,93
+Other Homestead,closest,2,Jimmy Carter,91
+Other Homestead,closest,3,Charles III,91
+Other Homestead,closest,4,Otto von Habsburg,91
+Other Homestead,closest,5,John Locke,90
+Other Homestead,closest,6,Michael Jackson,90
+Other Homestead,closest,7,John Mackey,88
+Other Homestead,closest,8,Luiz Felipe Pondé,88
+Other Homestead,furthest,1,Joseph Goebbels,
+Other Homestead,furthest,2,Joseph Stalin,
+Other Homestead,furthest,3,Kim Jong Un,

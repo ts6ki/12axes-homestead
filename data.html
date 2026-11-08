@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Data · 12 Axes group results</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@500;600;700&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+a{color:#1F4FD8}a:hover{color:#163a9e}
+</style>
+
+<style>
+html,body{margin:0;background:#E9EBEF}
+.site-nav{position:sticky;top:0;z-index:10;background:#121417;color:#fff;font-family:Inter,system-ui,sans-serif}
+.site-nav .in{max-width:1440px;margin:0 auto;padding:0 20px;display:flex;align-items:center;gap:6px;min-height:56px;flex-wrap:wrap}
+.site-nav .brand{font-family:'Space Grotesk',Inter,sans-serif;font-weight:700;font-size:17px;margin-right:auto;padding:12px 0;color:#fff;text-decoration:none}
+.site-nav a.tab{color:#C9CDD4;text-decoration:none;font-size:14px;font-weight:600;padding:8px 12px;border-radius:999px}
+.site-nav a.tab:hover{color:#fff;background:#2A2E35}
+.site-nav a.tab[aria-current="page"]{color:#121417;background:#fff}
+.site-nav a:focus-visible{outline:2px solid #8FB0FF;outline-offset:2px}
+#frame{margin:0 auto;overflow:hidden}
+#stage{width:1440px;transform-origin:top left}
+</style>
+<style>
+.data{max-width:860px;margin:0 auto;padding:56px 24px 80px;font-family:Inter,system-ui,sans-serif;color:#121417}
+.data h1{font-family:'Space Grotesk',Inter,sans-serif;font-size:56px;line-height:1;letter-spacing:-0.02em;margin:0 0 16px}
+.data>p{font-size:18px;line-height:1.55;color:#3D424A;margin:0 0 32px}
+.data ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:12px}
+.data li{background:#fff;border:1px solid #DDE0E5;border-radius:14px;padding:18px 20px}
+.data li a{font-size:17px;font-weight:700;color:#1F4FD8}
+.data li p{margin:6px 0 0;font-size:15px;line-height:1.5;color:#3D424A}
+.data .note{margin-top:32px;font-size:14px;line-height:1.6;color:#4A4F57}
+</style>
+<link rel="stylesheet" href="mobile.css">
+</head>
+<body>
+<nav class="site-nav" aria-label="Pages"><div class="in"><a class="brand" href="index.html">12 Axes · Group results</a><a class="tab" href="index.html">Overview</a><a class="tab" href="beyond.html">Beyond the top match</a><a class="tab" href="homestead.html">Homestead Ideal Government</a><a class="tab" href="other-side.html">What if we took the other side</a><a class="tab" href="data.html" aria-current="page">Data</a></div></nav>
+<main class="data">
+<h1>Data</h1>
+<p>The numbers behind every page, taken from each person's 12 Axes full report. Reference figures come from the site's public personality pages. Homestead and the Other Homestead were computed here, then run through the site.</p>
+<ul><li><a href="data/profiles.csv" download>profiles.csv</a><p>One row per person: top ideology, family, match %, closest country, historical match, figure, parties, era, compass label, other and furthest ideologies, top book. Includes Homestead and the Other Homestead.</p></li><li><a href="data/axes_wide.csv" download>axes_wide.csv</a><p>Everyone’s 12 axis positions in one table (0 = first pole, 100 = second pole, 50 = Balanced), plus the two compass coordinates used on page 1. Includes the four reference figures.</p></li><li><a href="data/axes_long.csv" download>axes_long.csv</a><p>The same positions, one row per person per axis, with the report’s own label (for example “89% Autocracy”) and the value the 12 Axes site expects in a share link.</p></li><li><a href="data/figures.csv" download>figures.csv</a><p>Each report’s eight closest figures with match %, and its three furthest figures.</p></li><li><a href="data/places_top10.csv" download>places_top10.csv</a><p>Each report’s “10 countries or regions to live in” with match %.</p></li><li><a href="data/cabinets.csv" download>cabinets.csv</a><p>Every ideal-government cabinet, seat by seat. For Homestead and the Other Homestead it also lists the friend-based guess and whose cabinet it came from.</p></li><li><a href="data/homestead_derivation.csv" download>homestead_derivation.csv</a><p>How Homestead and the Other Homestead were built: each axis’s top-3 trio on both sides, their averages, and which side each version took.</p></li><li><a href="data/data.json" download>data.json</a><p>Everything above in one JSON file, plus axis definitions and the 12 Axes share links.</p></li></ul>
+<p class="note">Axes the reports mark “Balanced” have no number, so they are stored as 50. Homestead and the Other Homestead are built from 11 of the 12 members. 12 Axes notes that its matches are not a scientific diagnosis.</p>
+</main>
+</body>
+</html>

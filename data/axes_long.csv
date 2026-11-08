@@ -1,0 +1,217 @@
+name,type,axis,first_pole,second_pole,position_0_to_100,lean_label,site_param,site_value_first_pole_pct,source
+mockas,member,Structure,Federal,Unitary,50,Balanced,est,50,12 Axes report
+mockas,member,Economy,Public,Private,25,75% Public,eco,75,12 Axes report
+mockas,member,Representation,Democracy,Autocracy,89,89% Autocracy,rep,11,12 Axes report
+mockas,member,Control,Planning,Free market,18,82% Planning,con,82,12 Axes report
+mockas,member,Power,Security,Liberty,50,Balanced,pod,50,12 Axes report
+mockas,member,Trade,Protectionism,Globalism,37,63% Protectionism,com,63,12 Axes report
+mockas,member,Immigration,Assimilation,Multiculturalism,50,Balanced,imi,50,12 Axes report
+mockas,member,Religion,Irreligious,Religious,7,93% Irreligious,rel,93,12 Axes report
+mockas,member,Diplomacy,Militarist,Pacifist,27,73% Militarist,dip,73,12 Axes report
+mockas,member,Morality,Progressive,Traditionalist,42,58% Progressive,mor,58,12 Axes report
+mockas,member,Intervention,Non-interventionist,Nationalist,89,89% Nationalist,int,11,12 Axes report
+mockas,member,Technology,Technology,Biology,50,Balanced,tec,50,12 Axes report
+deus(ss),member,Structure,Federal,Unitary,96,96% Unitary,est,4,12 Axes report
+deus(ss),member,Economy,Public,Private,35,65% Public,eco,65,12 Axes report
+deus(ss),member,Representation,Democracy,Autocracy,94,94% Autocracy,rep,6,12 Axes report
+deus(ss),member,Control,Planning,Free market,9,91% Planning,con,91,12 Axes report
+deus(ss),member,Power,Security,Liberty,11,89% Security,pod,89,12 Axes report
+deus(ss),member,Trade,Protectionism,Globalism,4,96% Protectionism,com,96,12 Axes report
+deus(ss),member,Immigration,Assimilation,Multiculturalism,1,99% Assimilation,imi,99,12 Axes report
+deus(ss),member,Religion,Irreligious,Religious,26,74% Irreligious,rel,74,12 Axes report
+deus(ss),member,Diplomacy,Militarist,Pacifist,1,99% Militarist,dip,99,12 Axes report
+deus(ss),member,Morality,Progressive,Traditionalist,89,89% Traditionalist,mor,11,12 Axes report
+deus(ss),member,Intervention,Non-interventionist,Nationalist,95,95% Nationalist,int,5,12 Axes report
+deus(ss),member,Technology,Technology,Biology,24,76% Technology,tec,76,12 Axes report
+minepro,member,Structure,Federal,Unitary,50,Balanced,est,50,12 Axes report
+minepro,member,Economy,Public,Private,64,64% Private,eco,36,12 Axes report
+minepro,member,Representation,Democracy,Autocracy,50,Balanced,rep,50,12 Axes report
+minepro,member,Control,Planning,Free market,38,62% Planning,con,62,12 Axes report
+minepro,member,Power,Security,Liberty,50,Balanced,pod,50,12 Axes report
+minepro,member,Trade,Protectionism,Globalism,50,Balanced,com,50,12 Axes report
+minepro,member,Immigration,Assimilation,Multiculturalism,35,65% Assimilation,imi,65,12 Axes report
+minepro,member,Religion,Irreligious,Religious,5,95% Irreligious,rel,95,12 Axes report
+minepro,member,Diplomacy,Militarist,Pacifist,19,81% Militarist,dip,81,12 Axes report
+minepro,member,Morality,Progressive,Traditionalist,35,65% Progressive,mor,65,12 Axes report
+minepro,member,Intervention,Non-interventionist,Nationalist,81,81% Nationalist,int,19,12 Axes report
+minepro,member,Technology,Technology,Biology,38,62% Technology,tec,62,12 Axes report
+kri,member,Structure,Federal,Unitary,50,Balanced,est,50,12 Axes report
+kri,member,Economy,Public,Private,69,69% Private,eco,31,12 Axes report
+kri,member,Representation,Democracy,Autocracy,50,Balanced,rep,50,12 Axes report
+kri,member,Control,Planning,Free market,70,70% Free market,con,30,12 Axes report
+kri,member,Power,Security,Liberty,50,Balanced,pod,50,12 Axes report
+kri,member,Trade,Protectionism,Globalism,69,69% Globalism,com,31,12 Axes report
+kri,member,Immigration,Assimilation,Multiculturalism,11,89% Assimilation,imi,89,12 Axes report
+kri,member,Religion,Irreligious,Religious,68,68% Religious,rel,32,12 Axes report
+kri,member,Diplomacy,Militarist,Pacifist,40,60% Militarist,dip,60,12 Axes report
+kri,member,Morality,Progressive,Traditionalist,90,90% Traditionalist,mor,10,12 Axes report
+kri,member,Intervention,Non-interventionist,Nationalist,68,68% Nationalist,int,32,12 Axes report
+kri,member,Technology,Technology,Biology,10,90% Technology,tec,90,12 Axes report
+waqst,member,Structure,Federal,Unitary,35,65% Federal,est,65,12 Axes report
+waqst,member,Economy,Public,Private,72,72% Private,eco,28,12 Axes report
+waqst,member,Representation,Democracy,Autocracy,26,74% Democracy,rep,74,12 Axes report
+waqst,member,Control,Planning,Free market,50,Balanced,con,50,12 Axes report
+waqst,member,Power,Security,Liberty,69,69% Liberty,pod,31,12 Axes report
+waqst,member,Trade,Protectionism,Globalism,64,64% Globalism,com,36,12 Axes report
+waqst,member,Immigration,Assimilation,Multiculturalism,50,Balanced,imi,50,12 Axes report
+waqst,member,Religion,Irreligious,Religious,50,Balanced,rel,50,12 Axes report
+waqst,member,Diplomacy,Militarist,Pacifist,50,Balanced,dip,50,12 Axes report
+waqst,member,Morality,Progressive,Traditionalist,50,Balanced,mor,50,12 Axes report
+waqst,member,Intervention,Non-interventionist,Nationalist,37,63% Non-interventionist,int,63,12 Axes report
+waqst,member,Technology,Technology,Biology,50,Balanced,tec,50,12 Axes report
+dumfries,member,Structure,Federal,Unitary,50,Balanced,est,50,12 Axes report
+dumfries,member,Economy,Public,Private,37,63% Public,eco,63,12 Axes report
+dumfries,member,Representation,Democracy,Autocracy,24,76% Democracy,rep,76,12 Axes report
+dumfries,member,Control,Planning,Free market,50,Balanced,con,50,12 Axes report
+dumfries,member,Power,Security,Liberty,41,59% Security,pod,59,12 Axes report
+dumfries,member,Trade,Protectionism,Globalism,50,Balanced,com,50,12 Axes report
+dumfries,member,Immigration,Assimilation,Multiculturalism,50,Balanced,imi,50,12 Axes report
+dumfries,member,Religion,Irreligious,Religious,40,60% Irreligious,rel,60,12 Axes report
+dumfries,member,Diplomacy,Militarist,Pacifist,66,66% Pacifist,dip,34,12 Axes report
+dumfries,member,Morality,Progressive,Traditionalist,21,79% Progressive,mor,79,12 Axes report
+dumfries,member,Intervention,Non-interventionist,Nationalist,50,Balanced,int,50,12 Axes report
+dumfries,member,Technology,Technology,Biology,50,Balanced,tec,50,12 Axes report
+vald,member,Structure,Federal,Unitary,23,77% Federal,est,77,12 Axes report
+vald,member,Economy,Public,Private,19,81% Public,eco,81,12 Axes report
+vald,member,Representation,Democracy,Autocracy,83,83% Autocracy,rep,17,12 Axes report
+vald,member,Control,Planning,Free market,38,62% Planning,con,62,12 Axes report
+vald,member,Power,Security,Liberty,22,78% Security,pod,78,12 Axes report
+vald,member,Trade,Protectionism,Globalism,31,69% Protectionism,com,69,12 Axes report
+vald,member,Immigration,Assimilation,Multiculturalism,28,72% Assimilation,imi,72,12 Axes report
+vald,member,Religion,Irreligious,Religious,99,99% Religious,rel,1,12 Axes report
+vald,member,Diplomacy,Militarist,Pacifist,50,Balanced,dip,50,12 Axes report
+vald,member,Morality,Progressive,Traditionalist,90,90% Traditionalist,mor,10,12 Axes report
+vald,member,Intervention,Non-interventionist,Nationalist,50,Balanced,int,50,12 Axes report
+vald,member,Technology,Technology,Biology,70,70% Biology,tec,30,12 Axes report
+zeno,member,Structure,Federal,Unitary,85,85% Unitary,est,15,12 Axes report
+zeno,member,Economy,Public,Private,1,99% Public,eco,99,12 Axes report
+zeno,member,Representation,Democracy,Autocracy,85,85% Autocracy,rep,15,12 Axes report
+zeno,member,Control,Planning,Free market,22,78% Planning,con,78,12 Axes report
+zeno,member,Power,Security,Liberty,23,77% Security,pod,77,12 Axes report
+zeno,member,Trade,Protectionism,Globalism,24,76% Protectionism,com,76,12 Axes report
+zeno,member,Immigration,Assimilation,Multiculturalism,35,65% Assimilation,imi,65,12 Axes report
+zeno,member,Religion,Irreligious,Religious,3,97% Irreligious,rel,97,12 Axes report
+zeno,member,Diplomacy,Militarist,Pacifist,38,62% Militarist,dip,62,12 Axes report
+zeno,member,Morality,Progressive,Traditionalist,25,75% Progressive,mor,75,12 Axes report
+zeno,member,Intervention,Non-interventionist,Nationalist,62,62% Nationalist,int,38,12 Axes report
+zeno,member,Technology,Technology,Biology,71,71% Biology,tec,29,12 Axes report
+pbc,member,Structure,Federal,Unitary,50,Balanced,est,50,12 Axes report
+pbc,member,Economy,Public,Private,27,73% Public,eco,73,12 Axes report
+pbc,member,Representation,Democracy,Autocracy,4,96% Democracy,rep,96,12 Axes report
+pbc,member,Control,Planning,Free market,21,79% Planning,con,79,12 Axes report
+pbc,member,Power,Security,Liberty,82,82% Liberty,pod,18,12 Axes report
+pbc,member,Trade,Protectionism,Globalism,40,60% Protectionism,com,60,12 Axes report
+pbc,member,Immigration,Assimilation,Multiculturalism,21,79% Assimilation,imi,79,12 Axes report
+pbc,member,Religion,Irreligious,Religious,68,68% Religious,rel,32,12 Axes report
+pbc,member,Diplomacy,Militarist,Pacifist,42,58% Militarist,dip,58,12 Axes report
+pbc,member,Morality,Progressive,Traditionalist,70,70% Traditionalist,mor,30,12 Axes report
+pbc,member,Intervention,Non-interventionist,Nationalist,64,64% Nationalist,int,36,12 Axes report
+pbc,member,Technology,Technology,Biology,64,64% Biology,tec,36,12 Axes report
+maple,member,Structure,Federal,Unitary,50,Balanced,est,50,12 Axes report
+maple,member,Economy,Public,Private,27,73% Public,eco,73,12 Axes report
+maple,member,Representation,Democracy,Autocracy,22,78% Democracy,rep,78,12 Axes report
+maple,member,Control,Planning,Free market,50,Balanced,con,50,12 Axes report
+maple,member,Power,Security,Liberty,37,63% Security,pod,63,12 Axes report
+maple,member,Trade,Protectionism,Globalism,50,Balanced,com,50,12 Axes report
+maple,member,Immigration,Assimilation,Multiculturalism,50,Balanced,imi,50,12 Axes report
+maple,member,Religion,Irreligious,Religious,5,95% Irreligious,rel,95,12 Axes report
+maple,member,Diplomacy,Militarist,Pacifist,27,73% Militarist,dip,73,12 Axes report
+maple,member,Morality,Progressive,Traditionalist,34,66% Progressive,mor,66,12 Axes report
+maple,member,Intervention,Non-interventionist,Nationalist,68,68% Nationalist,int,32,12 Axes report
+maple,member,Technology,Technology,Biology,58,58% Biology,tec,42,12 Axes report
+tsuki,member,Structure,Federal,Unitary,68,68% Unitary,est,32,12 Axes report
+tsuki,member,Economy,Public,Private,67,67% Private,eco,33,12 Axes report
+tsuki,member,Representation,Democracy,Autocracy,59,59% Autocracy,rep,41,12 Axes report
+tsuki,member,Control,Planning,Free market,66,66% Free market,con,34,12 Axes report
+tsuki,member,Power,Security,Liberty,61,61% Liberty,pod,39,12 Axes report
+tsuki,member,Trade,Protectionism,Globalism,60,60% Globalism,com,40,12 Axes report
+tsuki,member,Immigration,Assimilation,Multiculturalism,62,62% Multiculturalism,imi,38,12 Axes report
+tsuki,member,Religion,Irreligious,Religious,19,81% Irreligious,rel,81,12 Axes report
+tsuki,member,Diplomacy,Militarist,Pacifist,20,80% Militarist,dip,80,12 Axes report
+tsuki,member,Morality,Progressive,Traditionalist,26,74% Progressive,mor,74,12 Axes report
+tsuki,member,Intervention,Non-interventionist,Nationalist,78,78% Nationalist,int,22,12 Axes report
+tsuki,member,Technology,Technology,Biology,11,89% Technology,tec,89,12 Axes report
+angry,member,Structure,Federal,Unitary,78,78% Unitary,est,22,12 Axes report
+angry,member,Economy,Public,Private,40,60% Public,eco,60,12 Axes report
+angry,member,Representation,Democracy,Autocracy,58,58% Autocracy,rep,42,12 Axes report
+angry,member,Control,Planning,Free market,34,66% Planning,con,66,12 Axes report
+angry,member,Power,Security,Liberty,42,58% Security,pod,58,12 Axes report
+angry,member,Trade,Protectionism,Globalism,38,62% Protectionism,com,62,12 Axes report
+angry,member,Immigration,Assimilation,Multiculturalism,35,65% Assimilation,imi,65,12 Axes report
+angry,member,Religion,Irreligious,Religious,5,95% Irreligious,rel,95,12 Axes report
+angry,member,Diplomacy,Militarist,Pacifist,21,79% Militarist,dip,79,12 Axes report
+angry,member,Morality,Progressive,Traditionalist,50,Balanced,mor,50,12 Axes report
+angry,member,Intervention,Non-interventionist,Nationalist,97,97% Nationalist,int,3,12 Axes report
+angry,member,Technology,Technology,Biology,32,68% Technology,tec,68,12 Axes report
+Homestead,synthetic,Structure,Federal,Unitary,77,77% Unitary,est,23,12 Axes report for computed values
+Homestead,synthetic,Economy,Public,Private,15,85% Public,eco,85,12 Axes report for computed values
+Homestead,synthetic,Representation,Democracy,Autocracy,86,86% Autocracy,rep,14,12 Axes report for computed values
+Homestead,synthetic,Control,Planning,Free market,20,80% Planning,con,80,12 Axes report for computed values
+Homestead,synthetic,Power,Security,Liberty,27,73% Security,pod,73,12 Axes report for computed values
+Homestead,synthetic,Trade,Protectionism,Globalism,31,69% Protectionism,com,69,12 Axes report for computed values
+Homestead,synthetic,Immigration,Assimilation,Multiculturalism,20,80% Assimilation,imi,80,12 Axes report for computed values
+Homestead,synthetic,Religion,Irreligious,Religious,4,96% Irreligious,rel,96,12 Axes report for computed values
+Homestead,synthetic,Diplomacy,Militarist,Pacifist,20,80% Militarist,dip,80,12 Axes report for computed values
+Homestead,synthetic,Morality,Progressive,Traditionalist,83,83% Traditionalist,mor,17,12 Axes report for computed values
+Homestead,synthetic,Intervention,Non-interventionist,Nationalist,89,89% Nationalist,int,11,12 Axes report for computed values
+Homestead,synthetic,Technology,Technology,Biology,18,82% Technology,tec,82,12 Axes report for computed values
+Other Homestead,synthetic,Structure,Federal,Unitary,36,64% Federal,est,64,12 Axes report for computed values
+Other Homestead,synthetic,Economy,Public,Private,69,69% Private,eco,31,12 Axes report for computed values
+Other Homestead,synthetic,Representation,Democracy,Autocracy,17,83% Democracy,rep,83,12 Axes report for computed values
+Other Homestead,synthetic,Control,Planning,Free market,62,62% Free market,con,38,12 Axes report for computed values
+Other Homestead,synthetic,Power,Security,Liberty,71,71% Liberty,pod,29,12 Axes report for computed values
+Other Homestead,synthetic,Trade,Protectionism,Globalism,64,64% Globalism,com,36,12 Axes report for computed values
+Other Homestead,synthetic,Immigration,Assimilation,Multiculturalism,54,Balanced,imi,46,12 Axes report for computed values
+Other Homestead,synthetic,Religion,Irreligious,Religious,78,78% Religious,rel,22,12 Axes report for computed values
+Other Homestead,synthetic,Diplomacy,Militarist,Pacifist,55,Balanced,dip,45,12 Axes report for computed values
+Other Homestead,synthetic,Morality,Progressive,Traditionalist,24,76% Progressive,mor,76,12 Axes report for computed values
+Other Homestead,synthetic,Intervention,Non-interventionist,Nationalist,46,Balanced,int,54,12 Axes report for computed values
+Other Homestead,synthetic,Technology,Technology,Biology,68,68% Biology,tec,32,12 Axes report for computed values
+Donald Trump,reference figure,Structure,Federal,Unitary,75,75% Unitary,est,25,12 Axes public personality page
+Donald Trump,reference figure,Economy,Public,Private,75,75% Private,eco,25,12 Axes public personality page
+Donald Trump,reference figure,Representation,Democracy,Autocracy,61,61% Autocracy,rep,39,12 Axes public personality page
+Donald Trump,reference figure,Control,Planning,Free market,63,63% Free market,con,37,12 Axes public personality page
+Donald Trump,reference figure,Power,Security,Liberty,38,62% Security,pod,62,12 Axes public personality page
+Donald Trump,reference figure,Trade,Protectionism,Globalism,13,87% Protectionism,com,87,12 Axes public personality page
+Donald Trump,reference figure,Immigration,Assimilation,Multiculturalism,15,85% Assimilation,imi,85,12 Axes public personality page
+Donald Trump,reference figure,Religion,Irreligious,Religious,83,83% Religious,rel,17,12 Axes public personality page
+Donald Trump,reference figure,Diplomacy,Militarist,Pacifist,25,75% Militarist,dip,75,12 Axes public personality page
+Donald Trump,reference figure,Morality,Progressive,Traditionalist,79,79% Traditionalist,mor,21,12 Axes public personality page
+Donald Trump,reference figure,Intervention,Non-interventionist,Nationalist,61,61% Nationalist,int,39,12 Axes public personality page
+Donald Trump,reference figure,Technology,Technology,Biology,33,67% Technology,tec,67,12 Axes public personality page
+Xi Jinping,reference figure,Structure,Federal,Unitary,93,93% Unitary,est,7,12 Axes public personality page
+Xi Jinping,reference figure,Economy,Public,Private,30,70% Public,eco,70,12 Axes public personality page
+Xi Jinping,reference figure,Representation,Democracy,Autocracy,91,91% Autocracy,rep,9,12 Axes public personality page
+Xi Jinping,reference figure,Control,Planning,Free market,14,86% Planning,con,86,12 Axes public personality page
+Xi Jinping,reference figure,Power,Security,Liberty,6,94% Security,pod,94,12 Axes public personality page
+Xi Jinping,reference figure,Trade,Protectionism,Globalism,42,58% Protectionism,com,58,12 Axes public personality page
+Xi Jinping,reference figure,Immigration,Assimilation,Multiculturalism,18,82% Assimilation,imi,82,12 Axes public personality page
+Xi Jinping,reference figure,Religion,Irreligious,Religious,26,74% Irreligious,rel,74,12 Axes public personality page
+Xi Jinping,reference figure,Diplomacy,Militarist,Pacifist,25,75% Militarist,dip,75,12 Axes public personality page
+Xi Jinping,reference figure,Morality,Progressive,Traditionalist,78,78% Traditionalist,mor,22,12 Axes public personality page
+Xi Jinping,reference figure,Intervention,Non-interventionist,Nationalist,80,80% Nationalist,int,20,12 Axes public personality page
+Xi Jinping,reference figure,Technology,Technology,Biology,25,75% Technology,tec,75,12 Axes public personality page
+Mao Zedong,reference figure,Structure,Federal,Unitary,89,89% Unitary,est,11,12 Axes public personality page
+Mao Zedong,reference figure,Economy,Public,Private,8,92% Public,eco,92,12 Axes public personality page
+Mao Zedong,reference figure,Representation,Democracy,Autocracy,78,78% Autocracy,rep,22,12 Axes public personality page
+Mao Zedong,reference figure,Control,Planning,Free market,4,96% Planning,con,96,12 Axes public personality page
+Mao Zedong,reference figure,Power,Security,Liberty,7,93% Security,pod,93,12 Axes public personality page
+Mao Zedong,reference figure,Trade,Protectionism,Globalism,13,87% Protectionism,com,87,12 Axes public personality page
+Mao Zedong,reference figure,Immigration,Assimilation,Multiculturalism,43,57% Assimilation,imi,57,12 Axes public personality page
+Mao Zedong,reference figure,Religion,Irreligious,Religious,6,94% Irreligious,rel,94,12 Axes public personality page
+Mao Zedong,reference figure,Diplomacy,Militarist,Pacifist,20,80% Militarist,dip,80,12 Axes public personality page
+Mao Zedong,reference figure,Morality,Progressive,Traditionalist,55,55% Traditionalist,mor,45,12 Axes public personality page
+Mao Zedong,reference figure,Intervention,Non-interventionist,Nationalist,64,64% Nationalist,int,36,12 Axes public personality page
+Mao Zedong,reference figure,Technology,Technology,Biology,33,67% Technology,tec,67,12 Axes public personality page
+Adolf Hitler,reference figure,Structure,Federal,Unitary,95,95% Unitary,est,5,12 Axes public personality page
+Adolf Hitler,reference figure,Economy,Public,Private,53,53% Private,eco,47,12 Axes public personality page
+Adolf Hitler,reference figure,Representation,Democracy,Autocracy,93,93% Autocracy,rep,7,12 Axes public personality page
+Adolf Hitler,reference figure,Control,Planning,Free market,21,79% Planning,con,79,12 Axes public personality page
+Adolf Hitler,reference figure,Power,Security,Liberty,9,91% Security,pod,91,12 Axes public personality page
+Adolf Hitler,reference figure,Trade,Protectionism,Globalism,4,96% Protectionism,com,96,12 Axes public personality page
+Adolf Hitler,reference figure,Immigration,Assimilation,Multiculturalism,0,100% Assimilation,imi,100,12 Axes public personality page
+Adolf Hitler,reference figure,Religion,Irreligious,Religious,61,61% Religious,rel,39,12 Axes public personality page
+Adolf Hitler,reference figure,Diplomacy,Militarist,Pacifist,0,100% Militarist,dip,100,12 Axes public personality page
+Adolf Hitler,reference figure,Morality,Progressive,Traditionalist,89,89% Traditionalist,mor,11,12 Axes public personality page
+Adolf Hitler,reference figure,Intervention,Non-interventionist,Nationalist,90,90% Nationalist,int,10,12 Axes public personality page
+Adolf Hitler,reference figure,Technology,Technology,Biology,24,76% Technology,tec,76,12 Axes public personality page

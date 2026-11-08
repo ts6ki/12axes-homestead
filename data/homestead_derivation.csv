@@ -1,0 +1,13 @@
+axis,first_pole,first_pole_top3,first_pole_avg,second_pole,second_pole_top3,second_pole_avg,homestead_side,homestead_value,other_homestead_side,other_homestead_value
+Structure,Federal,vald 77 · waqst 65 · mockas bal,64.0,Unitary,zeno 85 · angry 78 · tsuki 68,77.0,Unitary,77.0,Federal,64.0
+Economy,Public,zeno 99 · vald 81 · mockas 75,85.0,Private,waqst 72 · kri 69 · tsuki 67,69.3,Public,85.0,Private,69.3
+Representation,Democracy,pbc 96 · maple 78 · dumfries 76,83.3,Autocracy,mockas 89 · zeno 85 · vald 83,85.7,Autocracy,85.7,Democracy,83.3
+Control,Planning,mockas 82 · pbc 79 · zeno 78,79.7,Free market,kri 70 · tsuki 66 · waqst bal,62.0,Planning,79.7,Free market,62.0
+Power,Security,vald 78 · zeno 77 · maple 63,72.7,Liberty,pbc 82 · waqst 69 · tsuki 61,70.7,Security,72.7,Liberty,70.7
+Trade,Protectionism,zeno 76 · vald 69 · mockas 63,69.3,Globalism,kri 69 · waqst 64 · tsuki 60,64.3,Protectionism,69.3,Globalism,64.3
+Immigration,Assimilation,kri 89 · pbc 79 · vald 72,80.0,Multiculturalism,tsuki 62 · waqst bal · maple bal,54.0,Assimilation,80.0,Multiculturalism,54.0
+Religion,Irreligious,zeno 97 · maple 95 · minepro 95,95.7,Religious,vald 99 · kri 68 · pbc 68,78.3,Irreligious,95.7,Religious,78.3
+Diplomacy,Militarist,minepro 81 · tsuki 80 · angry 79,80.0,Pacifist,dumfries 66 · vald bal · waqst bal,55.3,Militarist,80.0,Pacifist,55.3
+Morality,Progressive,dumfries 79 · zeno 75 · tsuki 74,76.0,Traditionalist,vald 90 · kri 90 · pbc 70,83.3,Traditionalist,83.3,Progressive,76.0
+Intervention,Non-interventionist,waqst 63 · dumfries bal · vald bal,54.3,Nationalist,angry 97 · mockas 89 · minepro 81,89.0,Nationalist,89.0,Non-interventionist,54.3
+Technology,Technology,kri 90 · tsuki 89 · angry 68,82.3,Biology,zeno 71 · vald 70 · pbc 64,68.3,Technology,82.3,Biology,68.3

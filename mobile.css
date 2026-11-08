@@ -1,0 +1,69 @@
+/* Phone layout. Desktop keeps the scaled 1440px canvas (see fit.js);
+   below 900px the canvas reflows instead, so text stays readable. */
+@media (max-width: 899px) {
+  /* Nav: one scrollable row of tabs; the brand duplicates the Overview tab. */
+  .site-nav .in{flex-wrap:nowrap;overflow-x:auto;padding:8px 12px;min-height:0;scrollbar-width:none}
+  .site-nav .in::-webkit-scrollbar{display:none}
+  .site-nav .brand{display:none}
+  .site-nav a.tab{flex-shrink:0;font-size:13px;padding:8px 12px}
+
+  #frame{width:auto!important;height:auto!important;overflow:visible}
+  #stage{width:auto;transform:none!important}
+  #stage>div{width:auto!important;height:auto!important;padding:28px 16px 56px!important;gap:48px!important;overflow-wrap:break-word;hyphens:auto}
+  #stage [style*="max-width"]{max-width:100%!important}
+  #stage [style*="width: 620px"],#stage [style*="width: 560px"]{width:100%!important;flex-shrink:1!important}
+
+  /* Rows of side-by-side items wrap instead of running off screen. */
+  #stage [style*="display: flex"]:not([style*="flex-direction: column"]):not([style*="; height:"]){flex-wrap:wrap;row-gap:8px}
+  #stage [style*="gap: 32px"],#stage [style*="gap: 40px"],#stage [style*="gap: 48px"],#stage [style*="gap: 56px"]{column-gap:16px!important}
+  #stage [style*="text-align: right"]:not(span:only-child){text-align:left!important}
+
+  /* Type scale */
+  #stage h1{font-size:40px!important;line-height:1.02!important}
+  #stage [style*="font-size: 52px"],#stage [style*="font-size: 44px"],#stage [style*="font-size: 40px"]{font-size:28px!important}
+  #stage [style*="font-size: 34px"],#stage [style*="font-size: 30px"],#stage [style*="font-size: 28px"],#stage [style*="font-size: 26px"]{font-size:22px!important}
+  #stage [style*="font-size: 24px"]{font-size:19px!important}
+  #stage [style*="font-size: 22px"]{font-size:17px!important}
+
+  /* Card grids collapse */
+  #stage [style*="repeat(4, minmax(0, 1fr))"]{grid-template-columns:repeat(2,minmax(0,1fr))!important}
+  #stage [style*="repeat(3, minmax(0, 1fr))"],
+  #stage [style*="repeat(2, minmax(0, 1fr))"],
+  #stage [style*="grid-template-columns: 1.1fr 1fr"]{grid-template-columns:minmax(0,1fr)!important}
+  #stage [style*="170px minmax(0, 1fr)"]{grid-template-columns:96px minmax(0,1fr)!important}
+  #stage [style*="min-height: 196px"]{min-height:0!important;padding:16px!important}
+
+  /* Wide tables scroll sideways inside their own box, name column pinned. */
+  #stage div:has(> [style*="170px repeat(12"]),
+  #stage div:has(> [style*="150px 1fr 1fr 1fr 1.25fr 110px"]),
+  #stage div:has(> [style*="150px repeat(4"]){overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:6px}
+  #stage [style*="170px repeat(12"]{min-width:860px;grid-template-columns:110px repeat(12,minmax(0,1fr))!important}
+  #stage [style*="150px 1fr 1fr 1fr 1.25fr 110px"]{min-width:820px;grid-template-columns:96px 1fr 1fr 1fr 1.25fr 90px!important}
+  #stage [style*="150px repeat(4"]{min-width:680px;grid-template-columns:96px repeat(4,minmax(0,1fr))!important}
+  #stage [style*="170px repeat(12"]>:first-child,
+  #stage [style*="150px 1fr 1fr 1fr 1.25fr 110px"]>:first-child,
+  #stage [style*="150px repeat(4"]>:first-child{position:sticky;left:0;z-index:1;background:#F5F6F8;box-shadow:6px 0 6px -6px rgba(18,20,23,.25)}
+
+  /* Progressive vs traditionalist bars: label stacks above its bar. */
+  #stage [style*="96px 1fr 1fr"][style*="height: 30px"]{grid-template-columns:72px 1fr 1fr!important;height:auto!important;align-items:stretch!important}
+  #stage [style*="96px 1fr 1fr"]:not([style*="height: 30px"]){grid-template-columns:72px 1fr 1fr!important}
+  #stage [style*="96px 1fr 1fr"][style*="height: 30px"]>div{flex-direction:column;justify-content:center!important;height:auto!important;gap:3px!important;padding:5px 0}
+  #stage [style*="96px 1fr 1fr"][style*="height: 30px"]>span{align-self:center}
+  #stage [style*="96px 1fr 1fr"][style*="height: 30px"]>div:nth-child(2){align-items:flex-end!important}
+  #stage [style*="96px 1fr 1fr"][style*="height: 30px"]>div:nth-child(3){align-items:flex-start!important}
+  #stage [style*="96px 1fr 1fr"][style*="height: 30px"]>div>span{order:-1;font-size:11px!important;white-space:normal!important;padding:0 6px}
+  #stage [style*="96px 1fr 1fr"][style*="height: 30px"]>div>span:empty{display:none}
+
+  /* Homestead profile rows: axis + result on top, the two poles, then the track. */
+  #stage [style*="140px minmax(0, 1fr) 280px minmax(0, 1fr) 140px"]{grid-template-columns:minmax(0,1fr) minmax(0,1fr)!important;grid-template-areas:"axis result" "p1 p2" "track track";row-gap:8px!important;padding-bottom:12px;border-bottom:1px solid #DDE0E5}
+  #stage [style*="140px minmax(0, 1fr) 280px minmax(0, 1fr) 140px"]:has(> span:first-child:empty),
+  #stage [style*="140px minmax(0, 1fr) 280px minmax(0, 1fr) 140px"][style*="text-transform: uppercase"]{display:none!important}
+  #stage [style*="140px minmax(0, 1fr) 280px"]>:nth-child(1){grid-area:axis}
+  #stage [style*="140px minmax(0, 1fr) 280px"]>:nth-child(2){grid-area:p1}
+  #stage [style*="140px minmax(0, 1fr) 280px"]>:nth-child(3){grid-area:track}
+  #stage [style*="140px minmax(0, 1fr) 280px"]>:nth-child(4){grid-area:p2}
+  #stage [style*="140px minmax(0, 1fr) 280px"]>:nth-child(5){grid-area:result;text-align:right!important;justify-self:end}
+
+  .data{padding:32px 16px 56px}
+  .data h1{font-size:40px}
+}

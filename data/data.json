@@ -1,0 +1,3234 @@
+{
+ "axes": [
+  {
+   "axis": "Structure",
+   "first_pole": "Federal",
+   "second_pole": "Unitary",
+   "site_param": "est"
+  },
+  {
+   "axis": "Economy",
+   "first_pole": "Public",
+   "second_pole": "Private",
+   "site_param": "eco"
+  },
+  {
+   "axis": "Representation",
+   "first_pole": "Democracy",
+   "second_pole": "Autocracy",
+   "site_param": "rep"
+  },
+  {
+   "axis": "Control",
+   "first_pole": "Planning",
+   "second_pole": "Free market",
+   "site_param": "con"
+  },
+  {
+   "axis": "Power",
+   "first_pole": "Security",
+   "second_pole": "Liberty",
+   "site_param": "pod"
+  },
+  {
+   "axis": "Trade",
+   "first_pole": "Protectionism",
+   "second_pole": "Globalism",
+   "site_param": "com"
+  },
+  {
+   "axis": "Immigration",
+   "first_pole": "Assimilation",
+   "second_pole": "Multiculturalism",
+   "site_param": "imi"
+  },
+  {
+   "axis": "Religion",
+   "first_pole": "Irreligious",
+   "second_pole": "Religious",
+   "site_param": "rel"
+  },
+  {
+   "axis": "Diplomacy",
+   "first_pole": "Militarist",
+   "second_pole": "Pacifist",
+   "site_param": "dip"
+  },
+  {
+   "axis": "Morality",
+   "first_pole": "Progressive",
+   "second_pole": "Traditionalist",
+   "site_param": "mor"
+  },
+  {
+   "axis": "Intervention",
+   "first_pole": "Non-interventionist",
+   "second_pole": "Nationalist",
+   "site_param": "int"
+  },
+  {
+   "axis": "Technology",
+   "first_pole": "Technology",
+   "second_pole": "Biology",
+   "site_param": "tec"
+  }
+ ],
+ "positions": {
+  "mockas": {
+   "Structure": 50,
+   "Economy": 25,
+   "Representation": 89,
+   "Control": 18,
+   "Power": 50,
+   "Trade": 37,
+   "Immigration": 50,
+   "Religion": 7,
+   "Diplomacy": 27,
+   "Morality": 42,
+   "Intervention": 89,
+   "Technology": 50
+  },
+  "deus(ss)": {
+   "Structure": 96,
+   "Economy": 35,
+   "Representation": 94,
+   "Control": 9,
+   "Power": 11,
+   "Trade": 4,
+   "Immigration": 1,
+   "Religion": 26,
+   "Diplomacy": 1,
+   "Morality": 89,
+   "Intervention": 95,
+   "Technology": 24
+  },
+  "minepro": {
+   "Structure": 50,
+   "Economy": 64,
+   "Representation": 50,
+   "Control": 38,
+   "Power": 50,
+   "Trade": 50,
+   "Immigration": 35,
+   "Religion": 5,
+   "Diplomacy": 19,
+   "Morality": 35,
+   "Intervention": 81,
+   "Technology": 38
+  },
+  "kri": {
+   "Structure": 50,
+   "Economy": 69,
+   "Representation": 50,
+   "Control": 70,
+   "Power": 50,
+   "Trade": 69,
+   "Immigration": 11,
+   "Religion": 68,
+   "Diplomacy": 40,
+   "Morality": 90,
+   "Intervention": 68,
+   "Technology": 10
+  },
+  "waqst": {
+   "Structure": 35,
+   "Economy": 72,
+   "Representation": 26,
+   "Control": 50,
+   "Power": 69,
+   "Trade": 64,
+   "Immigration": 50,
+   "Religion": 50,
+   "Diplomacy": 50,
+   "Morality": 50,
+   "Intervention": 37,
+   "Technology": 50
+  },
+  "dumfries": {
+   "Structure": 50,
+   "Economy": 37,
+   "Representation": 24,
+   "Control": 50,
+   "Power": 41,
+   "Trade": 50,
+   "Immigration": 50,
+   "Religion": 40,
+   "Diplomacy": 66,
+   "Morality": 21,
+   "Intervention": 50,
+   "Technology": 50
+  },
+  "vald": {
+   "Structure": 23,
+   "Economy": 19,
+   "Representation": 83,
+   "Control": 38,
+   "Power": 22,
+   "Trade": 31,
+   "Immigration": 28,
+   "Religion": 99,
+   "Diplomacy": 50,
+   "Morality": 90,
+   "Intervention": 50,
+   "Technology": 70
+  },
+  "zeno": {
+   "Structure": 85,
+   "Economy": 1,
+   "Representation": 85,
+   "Control": 22,
+   "Power": 23,
+   "Trade": 24,
+   "Immigration": 35,
+   "Religion": 3,
+   "Diplomacy": 38,
+   "Morality": 25,
+   "Intervention": 62,
+   "Technology": 71
+  },
+  "pbc": {
+   "Structure": 50,
+   "Economy": 27,
+   "Representation": 4,
+   "Control": 21,
+   "Power": 82,
+   "Trade": 40,
+   "Immigration": 21,
+   "Religion": 68,
+   "Diplomacy": 42,
+   "Morality": 70,
+   "Intervention": 64,
+   "Technology": 64
+  },
+  "maple": {
+   "Structure": 50,
+   "Economy": 27,
+   "Representation": 22,
+   "Control": 50,
+   "Power": 37,
+   "Trade": 50,
+   "Immigration": 50,
+   "Religion": 5,
+   "Diplomacy": 27,
+   "Morality": 34,
+   "Intervention": 68,
+   "Technology": 58
+  },
+  "tsuki": {
+   "Structure": 68,
+   "Economy": 67,
+   "Representation": 59,
+   "Control": 66,
+   "Power": 61,
+   "Trade": 60,
+   "Immigration": 62,
+   "Religion": 19,
+   "Diplomacy": 20,
+   "Morality": 26,
+   "Intervention": 78,
+   "Technology": 11
+  },
+  "angry": {
+   "Structure": 78,
+   "Economy": 40,
+   "Representation": 58,
+   "Control": 34,
+   "Power": 42,
+   "Trade": 38,
+   "Immigration": 35,
+   "Religion": 5,
+   "Diplomacy": 21,
+   "Morality": 50,
+   "Intervention": 97,
+   "Technology": 32
+  },
+  "Homestead": {
+   "Structure": 77,
+   "Economy": 15,
+   "Representation": 86,
+   "Control": 20,
+   "Power": 27,
+   "Trade": 31,
+   "Immigration": 20,
+   "Religion": 4,
+   "Diplomacy": 20,
+   "Morality": 83,
+   "Intervention": 89,
+   "Technology": 18
+  },
+  "Other Homestead": {
+   "Structure": 36,
+   "Economy": 69,
+   "Representation": 17,
+   "Control": 62,
+   "Power": 71,
+   "Trade": 64,
+   "Immigration": 54,
+   "Religion": 78,
+   "Diplomacy": 55,
+   "Morality": 24,
+   "Intervention": 46,
+   "Technology": 68
+  },
+  "Donald Trump": {
+   "Structure": 75,
+   "Economy": 75,
+   "Representation": 61,
+   "Control": 63,
+   "Power": 38,
+   "Trade": 13,
+   "Immigration": 15,
+   "Religion": 83,
+   "Diplomacy": 25,
+   "Morality": 79,
+   "Intervention": 61,
+   "Technology": 33
+  },
+  "Xi Jinping": {
+   "Structure": 93,
+   "Economy": 30,
+   "Representation": 91,
+   "Control": 14,
+   "Power": 6,
+   "Trade": 42,
+   "Immigration": 18,
+   "Religion": 26,
+   "Diplomacy": 25,
+   "Morality": 78,
+   "Intervention": 80,
+   "Technology": 25
+  },
+  "Mao Zedong": {
+   "Structure": 89,
+   "Economy": 8,
+   "Representation": 78,
+   "Control": 4,
+   "Power": 7,
+   "Trade": 13,
+   "Immigration": 43,
+   "Religion": 6,
+   "Diplomacy": 20,
+   "Morality": 55,
+   "Intervention": 64,
+   "Technology": 33
+  },
+  "Adolf Hitler": {
+   "Structure": 95,
+   "Economy": 53,
+   "Representation": 93,
+   "Control": 21,
+   "Power": 9,
+   "Trade": 4,
+   "Immigration": 0,
+   "Religion": 61,
+   "Diplomacy": 0,
+   "Morality": 89,
+   "Intervention": 90,
+   "Technology": 24
+  }
+ },
+ "profiles": [
+  {
+   "name": "mockas",
+   "type": "member",
+   "ideology_family": "Radical Left",
+   "top_ideology": "Blanquist Socialism",
+   "top_match_pct": 86.6,
+   "closest_country": "Cuba (88%)",
+   "historical_country": "Cuba under Fidel Castro (87%)",
+   "closest_figure": "Sergei Korolev (88%)",
+   "active_party": "Chinese Communist Party (79%)",
+   "historical_party": "Hungarian Socialist Workers' Party (MSZMP) (84%)",
+   "most_compatible_era": "20th century (87%)",
+   "compass_label": "Radical left with Moderate social values",
+   "furthest_ideology": "Paleolibertarianism",
+   "other_ideology_1": "Maoist Communism",
+   "other_ideology_2": "Trotskyist Communism",
+   "other_ideology_3": "Communism",
+   "top_reading": "Gabriele D'Annunzio, Charter of Carnaro (1920)"
+  },
+  {
+   "name": "deus(ss)",
+   "type": "member",
+   "ideology_family": "Third Position",
+   "top_ideology": "Fascism",
+   "top_match_pct": 97.0,
+   "closest_country": "North Korea (94%)",
+   "historical_country": "Nazi Germany (Third Reich) (95%)",
+   "closest_figure": "Joseph Goebbels (100%)",
+   "active_party": "Workers' Party of Korea (WPK) (94%)",
+   "historical_party": "Schutzstaffel (SS) (99%)",
+   "most_compatible_era": "20th century (96%)",
+   "compass_label": "Third position with Strongly traditionalist social values",
+   "furthest_ideology": "Federalism",
+   "other_ideology_1": "Red Fascism",
+   "other_ideology_2": "Techno-Fascism",
+   "other_ideology_3": "Stalinist Socialism",
+   "top_reading": "Joseph Stalin, The Foundations of Leninism (1924)"
+  },
+  {
+   "name": "minepro",
+   "type": "member",
+   "ideology_family": "Right",
+   "top_ideology": "Right-Wing Technocracy",
+   "top_match_pct": 88.6,
+   "closest_country": "France (88%)",
+   "historical_country": "Kingdom of Prussia (81%)",
+   "closest_figure": "Max Weber (92%)",
+   "active_party": "Renaissance (87%)",
+   "historical_party": "Italian Liberals (Giolitti) (81%)",
+   "most_compatible_era": "21st century (88%)",
+   "compass_label": "Center-right with Progressive social values",
+   "furthest_ideology": "Agrarian Anarchism",
+   "other_ideology_1": "Traditionalist Atheism",
+   "other_ideology_2": "Futurism",
+   "other_ideology_3": "Libertarian Authoritarianism",
+   "top_reading": "Max Weber, The Protestant Ethic and the Spirit of Capitalism (1905)"
+  },
+  {
+   "name": "kri",
+   "type": "member",
+   "ideology_family": "Right",
+   "top_ideology": "National Liberalism",
+   "top_match_pct": 92.5,
+   "closest_country": "Florida (United States) (91%)",
+   "historical_country": "Kingdom of Saxony (94%)",
+   "closest_figure": "Jair Bolsonaro (95%)",
+   "active_party": "Liberal Party (PL) (94%)",
+   "historical_party": "House of Hanover (90%)",
+   "most_compatible_era": "21st century (92%)",
+   "compass_label": "Right with Strongly traditionalist social values",
+   "furthest_ideology": "Communalism",
+   "other_ideology_1": "Christian Accelerationism",
+   "other_ideology_2": "Neoconservatism",
+   "other_ideology_3": "Conservative Liberalism",
+   "top_reading": "Carlos Lacerda, Depoimento (1977)"
+  },
+  {
+   "name": "waqst",
+   "type": "member",
+   "ideology_family": "Center",
+   "top_ideology": "Federalism",
+   "top_match_pct": 94.5,
+   "closest_country": "Lebanon (93%)",
+   "historical_country": "Old Swiss Confederacy (87%)",
+   "closest_figure": "John Locke (97%)",
+   "active_party": "Social Democratic Party (PSD) (93%)",
+   "historical_party": "Liberal Party of the Empire (Luzias) (91%)",
+   "most_compatible_era": "21st century (92%)",
+   "compass_label": "Centrist with Moderate social values",
+   "furthest_ideology": "Stalinist Socialism",
+   "other_ideology_1": "Liberal Centrism",
+   "other_ideology_2": "Ordoliberalism",
+   "other_ideology_3": "Direct Democracy",
+   "top_reading": "John Locke, Second Treatise of Government (1689)"
+  },
+  {
+   "name": "dumfries",
+   "type": "member",
+   "ideology_family": "Left",
+   "top_ideology": "State Liberalism",
+   "top_match_pct": 94.9,
+   "closest_country": "Rio de Janeiro (Brazil) (97%)",
+   "historical_country": "Mandela's South Africa (91%)",
+   "closest_figure": "Olaf Scholz (96%)",
+   "active_party": "Brazilian Socialist Party (PSB) (96%)",
+   "historical_party": "Social Democratic Party of Germany (Weimar era) (86%)",
+   "most_compatible_era": "21st century (96%)",
+   "compass_label": "Center-left with Progressive social values",
+   "furthest_ideology": "Colonialism",
+   "other_ideology_1": "Social Centrism",
+   "other_ideology_2": "Green Centrism",
+   "other_ideology_3": "Nordic Social Democracy",
+   "top_reading": "Olaf Scholz, Hoffnungsland (2017)"
+  },
+  {
+   "name": "vald",
+   "type": "member",
+   "ideology_family": "Far-Right",
+   "top_ideology": "Carlist Traditionalism",
+   "top_match_pct": 94.4,
+   "closest_country": "Yemen (88%)",
+   "historical_country": "Holy Roman Empire (First Reich) (92%)",
+   "closest_figure": "Martin Luther (94%)",
+   "active_party": "Carlist Traditionalist Communion (CTC) (95%)",
+   "historical_party": "Brazilian Integralist Action (AIB) (88%)",
+   "most_compatible_era": "20th century (89%)",
+   "compass_label": "Far-right with Strongly traditionalist social values",
+   "furthest_ideology": "Crypto-Anarchism",
+   "other_ideology_1": "Eurasianism",
+   "other_ideology_2": "Austrofascism",
+   "other_ideology_3": "Federalist Monarchism",
+   "top_reading": "Martin Luther, On the Freedom of a Christian (1520)"
+  },
+  {
+   "name": "zeno",
+   "type": "member",
+   "ideology_family": "Radical Left",
+   "top_ideology": "Cuban Socialism",
+   "top_match_pct": 92.8,
+   "closest_country": "Cuba (93%)",
+   "historical_country": "East Germany (91%)",
+   "closest_figure": "Samora Machel (91%)",
+   "active_party": "Communist Party of Cuba (PCC) (87%)",
+   "historical_party": "Hungarian Socialist Workers' Party (MSZMP) (90%)",
+   "most_compatible_era": "20th century (91%)",
+   "compass_label": "Radical left with Progressive social values",
+   "furthest_ideology": "Paleolibertarianism",
+   "other_ideology_1": "Authoritarian Progressivism",
+   "other_ideology_2": "Maoist Communism",
+   "other_ideology_3": "State Socialism",
+   "top_reading": "Ho Chi Minh, The Revolutionary Path (1927)"
+  },
+  {
+   "name": "pbc",
+   "type": "member",
+   "ideology_family": "Radical Left",
+   "top_ideology": "Revolutionary Syndicalism",
+   "top_match_pct": 87.4,
+   "closest_country": "Croatia (89%)",
+   "historical_country": "New Deal United States (86%)",
+   "closest_figure": "Tiberius Gracchus (94%)",
+   "active_party": "Les Identitaires (86%)",
+   "historical_party": "MDB (85%)",
+   "most_compatible_era": "21st century (87%)",
+   "compass_label": "Radical left with Traditionalist social values",
+   "furthest_ideology": "Crypto-Anarchism",
+   "other_ideology_1": "Eco-Nationalism",
+   "other_ideology_2": "Labourism",
+   "other_ideology_3": "National Democracy",
+   "top_reading": "Tucker Carlson, Ship of Fools (2018)"
+  },
+  {
+   "name": "maple",
+   "type": "member",
+   "ideology_family": "Center",
+   "top_ideology": "Machiavellian Republicanism",
+   "top_match_pct": 87.7,
+   "closest_country": "France (94%)",
+   "historical_country": "Second Spanish Republic (85%)",
+   "closest_figure": "Keir Starmer (95%)",
+   "active_party": "Social Democrats (S) (92%)",
+   "historical_party": "Italian Liberals (Giolitti) (82%)",
+   "most_compatible_era": "21st century (91%)",
+   "compass_label": "Centrist with Progressive social values",
+   "furthest_ideology": "Hoppean Libertarianism",
+   "other_ideology_1": "Progressive Nationalism",
+   "other_ideology_2": "Third Way",
+   "other_ideology_3": "Securitarian Democracy",
+   "top_reading": "Emmanuel Macron, Revolution (2016)"
+  },
+  {
+   "name": "tsuki",
+   "type": "member",
+   "ideology_family": "Right",
+   "top_ideology": "Right-Wing Progressivism",
+   "top_match_pct": 92.8,
+   "closest_country": "Estonia (87%)",
+   "historical_country": "Kingdom of Sardinia (79%)",
+   "closest_figure": "Mark Zuckerberg (94%)",
+   "active_party": "Mission Party (MISSÃO) (88%)",
+   "historical_party": "House of Pahlavi (77%)",
+   "most_compatible_era": "21st century (89%)",
+   "compass_label": "Right with Progressive social values",
+   "furthest_ideology": "Georgist Distributism",
+   "other_ideology_1": "Libertarian Authoritarianism",
+   "other_ideology_2": "Right-Wing Technocracy",
+   "other_ideology_3": "Atlanticism",
+   "top_reading": "Max Weber, The Protestant Ethic and the Spirit of Capitalism (1905)"
+  },
+  {
+   "name": "angry",
+   "type": "member",
+   "ideology_family": "Third Position",
+   "top_ideology": "Futurism",
+   "top_match_pct": 93.0,
+   "closest_country": "France (88%)",
+   "historical_country": "First French Republic (92%)",
+   "closest_figure": "Thomas Hobbes (91%)",
+   "active_party": "Azov Battalion (88%)",
+   "historical_party": "Jacobins (90%)",
+   "most_compatible_era": "20th century (89%)",
+   "compass_label": "Third position with Moderate social values",
+   "furthest_ideology": "Paleolibertarianism",
+   "other_ideology_1": "Traditionalist Atheism",
+   "other_ideology_2": "Right-Wing Technocracy",
+   "other_ideology_3": "Blanquist Socialism",
+   "top_reading": "Thomas Hobbes, Leviathan (1651)"
+  },
+  {
+   "name": "Homestead",
+   "type": "synthetic",
+   "ideology_family": "Third Position",
+   "top_ideology": "National Bolshevism (NazBol)",
+   "top_match_pct": 95.7,
+   "closest_country": "China (94%)",
+   "historical_country": "Samora Machel's Mozambique (95%)",
+   "closest_figure": "Leonid Brezhnev (97%)",
+   "active_party": "Chinese Communist Party (94%)",
+   "historical_party": "Rastakhiz Party (94%)",
+   "most_compatible_era": "20th century (94%)",
+   "compass_label": "Third position with Strongly traditionalist social values",
+   "furthest_ideology": "Federalism",
+   "other_ideology_1": "Red Fascism",
+   "other_ideology_2": "Stalinist Socialism",
+   "other_ideology_3": "National Communism",
+   "top_reading": "Fidel Castro, History Will Absolve Me (1953)"
+  },
+  {
+   "name": "Other Homestead",
+   "type": "synthetic",
+   "ideology_family": "Center",
+   "top_ideology": "Federalism",
+   "top_match_pct": 90.9,
+   "closest_country": "Switzerland (89%)",
+   "historical_country": "Polish-Lithuanian Commonwealth (84%)",
+   "closest_figure": "Bob Dylan (93%)",
+   "active_party": "Brazilian Social Democracy Party (PSDB) (85%)",
+   "historical_party": "Liberal Party of the Empire (Luzias) (82%)",
+   "most_compatible_era": "21st century (90%)",
+   "compass_label": "Centrist with Progressive social values",
+   "furthest_ideology": "Stalinist Socialism",
+   "other_ideology_1": "Direct Democracy",
+   "other_ideology_2": "Pragmatic Liberalism",
+   "other_ideology_3": "Liberal Centrism",
+   "top_reading": "Jimmy Carter, Our Endangered Values (2005)"
+  }
+ ],
+ "figures": [
+  {
+   "name": "mockas",
+   "list": "closest",
+   "rank": 1,
+   "figure": "Sergei Korolev",
+   "match_pct": 88
+  },
+  {
+   "name": "mockas",
+   "list": "closest",
+   "rank": 2,
+   "figure": "Gabriele D'Annunzio",
+   "match_pct": 87
+  },
+  {
+   "name": "mockas",
+   "list": "closest",
+   "rank": 3,
+   "figure": "Nikita Khrushchev",
+   "match_pct": 87
+  },
+  {
+   "name": "mockas",
+   "list": "closest",
+   "rank": 4,
+   "figure": "Ernst Niekisch",
+   "match_pct": 87
+  },
+  {
+   "name": "mockas",
+   "list": "closest",
+   "rank": 5,
+   "figure": "Ho Chi Minh",
+   "match_pct": 87
+  },
+  {
+   "name": "mockas",
+   "list": "closest",
+   "rank": 6,
+   "figure": "Nicola Bombacci",
+   "match_pct": 86
+  },
+  {
+   "name": "mockas",
+   "list": "closest",
+   "rank": 7,
+   "figure": "Ernst Jünger",
+   "match_pct": 86
+  },
+  {
+   "name": "mockas",
+   "list": "closest",
+   "rank": 8,
+   "figure": "Frederick the Great",
+   "match_pct": 86
+  },
+  {
+   "name": "mockas",
+   "list": "furthest",
+   "rank": 1,
+   "figure": "Ron Paul",
+   "match_pct": ""
+  },
+  {
+   "name": "mockas",
+   "list": "furthest",
+   "rank": 2,
+   "figure": "Ezra Heywood",
+   "match_pct": ""
+  },
+  {
+   "name": "mockas",
+   "list": "furthest",
+   "rank": 3,
+   "figure": "Chase Oliver",
+   "match_pct": ""
+  },
+  {
+   "name": "deus(ss)",
+   "list": "closest",
+   "rank": 1,
+   "figure": "Joseph Goebbels",
+   "match_pct": 100
+  },
+  {
+   "name": "deus(ss)",
+   "list": "closest",
+   "rank": 2,
+   "figure": "Adolf Hitler",
+   "match_pct": 95
+  },
+  {
+   "name": "deus(ss)",
+   "list": "closest",
+   "rank": 3,
+   "figure": "Kim Jong Un",
+   "match_pct": 95
+  },
+  {
+   "name": "deus(ss)",
+   "list": "closest",
+   "rank": 4,
+   "figure": "Joseph Stalin",
+   "match_pct": 95
+  },
+  {
+   "name": "deus(ss)",
+   "list": "closest",
+   "rank": 5,
+   "figure": "Benito Mussolini",
+   "match_pct": 94
+  },
+  {
+   "name": "deus(ss)",
+   "list": "closest",
+   "rank": 6,
+   "figure": "Qin Shi Huang",
+   "match_pct": 93
+  },
+  {
+   "name": "deus(ss)",
+   "list": "closest",
+   "rank": 7,
+   "figure": "Giovanni Gentile",
+   "match_pct": 93
+  },
+  {
+   "name": "deus(ss)",
+   "list": "closest",
+   "rank": 8,
+   "figure": "Leonid Brezhnev",
+   "match_pct": 93
+  },
+  {
+   "name": "deus(ss)",
+   "list": "furthest",
+   "rank": 1,
+   "figure": "Diogenes of Sinope",
+   "match_pct": ""
+  },
+  {
+   "name": "deus(ss)",
+   "list": "furthest",
+   "rank": 2,
+   "figure": "Bob Dylan",
+   "match_pct": ""
+  },
+  {
+   "name": "deus(ss)",
+   "list": "furthest",
+   "rank": 3,
+   "figure": "Michael Jackson",
+   "match_pct": ""
+  },
+  {
+   "name": "minepro",
+   "list": "closest",
+   "rank": 1,
+   "figure": "Max Weber",
+   "match_pct": 92
+  },
+  {
+   "name": "minepro",
+   "list": "closest",
+   "rank": 2,
+   "figure": "Alex Karp",
+   "match_pct": 91
+  },
+  {
+   "name": "minepro",
+   "list": "closest",
+   "rank": 3,
+   "figure": "Emmanuel Macron",
+   "match_pct": 90
+  },
+  {
+   "name": "minepro",
+   "list": "closest",
+   "rank": 4,
+   "figure": "Gabriele D'Annunzio",
+   "match_pct": 89
+  },
+  {
+   "name": "minepro",
+   "list": "closest",
+   "rank": 5,
+   "figure": "Georges Danton",
+   "match_pct": 89
+  },
+  {
+   "name": "minepro",
+   "list": "closest",
+   "rank": 6,
+   "figure": "Linus Torvalds",
+   "match_pct": 88
+  },
+  {
+   "name": "minepro",
+   "list": "closest",
+   "rank": 7,
+   "figure": "Volodymyr Zelensky",
+   "match_pct": 88
+  },
+  {
+   "name": "minepro",
+   "list": "closest",
+   "rank": 8,
+   "figure": "Renan Santos",
+   "match_pct": 88
+  },
+  {
+   "name": "minepro",
+   "list": "furthest",
+   "rank": 1,
+   "figure": "Bob Marley",
+   "match_pct": ""
+  },
+  {
+   "name": "minepro",
+   "list": "furthest",
+   "rank": 2,
+   "figure": "Subcomandante Marcos",
+   "match_pct": ""
+  },
+  {
+   "name": "minepro",
+   "list": "furthest",
+   "rank": 3,
+   "figure": "Gerrard Winstanley",
+   "match_pct": ""
+  },
+  {
+   "name": "kri",
+   "list": "closest",
+   "rank": 1,
+   "figure": "Jair Bolsonaro",
+   "match_pct": 95
+  },
+  {
+   "name": "kri",
+   "list": "closest",
+   "rank": 2,
+   "figure": "Carlos Lacerda",
+   "match_pct": 94
+  },
+  {
+   "name": "kri",
+   "list": "closest",
+   "rank": 3,
+   "figure": "Flávio Bolsonaro",
+   "match_pct": 93
+  },
+  {
+   "name": "kri",
+   "list": "closest",
+   "rank": 4,
+   "figure": "Johannes Kaiser",
+   "match_pct": 91
+  },
+  {
+   "name": "kri",
+   "list": "closest",
+   "rank": 5,
+   "figure": "Henry Clay Frick",
+   "match_pct": 91
+  },
+  {
+   "name": "kri",
+   "list": "closest",
+   "rank": 6,
+   "figure": "John D. Rockefeller",
+   "match_pct": 91
+  },
+  {
+   "name": "kri",
+   "list": "closest",
+   "rank": 7,
+   "figure": "John Howard",
+   "match_pct": 91
+  },
+  {
+   "name": "kri",
+   "list": "closest",
+   "rank": 8,
+   "figure": "Winston Churchill",
+   "match_pct": 91
+  },
+  {
+   "name": "kri",
+   "list": "furthest",
+   "rank": 1,
+   "figure": "Subcomandante Marcos",
+   "match_pct": ""
+  },
+  {
+   "name": "kri",
+   "list": "furthest",
+   "rank": 2,
+   "figure": "Élisée Reclus",
+   "match_pct": ""
+  },
+  {
+   "name": "kri",
+   "list": "furthest",
+   "rank": 3,
+   "figure": "José Bové",
+   "match_pct": ""
+  },
+  {
+   "name": "waqst",
+   "list": "closest",
+   "rank": 1,
+   "figure": "John Locke",
+   "match_pct": 97
+  },
+  {
+   "name": "waqst",
+   "list": "closest",
+   "rank": 2,
+   "figure": "Montesquieu",
+   "match_pct": 94
+  },
+  {
+   "name": "waqst",
+   "list": "closest",
+   "rank": 3,
+   "figure": "Richard Rasmussen",
+   "match_pct": 93
+  },
+  {
+   "name": "waqst",
+   "list": "closest",
+   "rank": 4,
+   "figure": "James Madison",
+   "match_pct": 93
+  },
+  {
+   "name": "waqst",
+   "list": "closest",
+   "rank": 5,
+   "figure": "Otto von Habsburg",
+   "match_pct": 93
+  },
+  {
+   "name": "waqst",
+   "list": "closest",
+   "rank": 6,
+   "figure": "Benjamin Franklin",
+   "match_pct": 93
+  },
+  {
+   "name": "waqst",
+   "list": "closest",
+   "rank": 7,
+   "figure": "Luiz Felipe Pondé",
+   "match_pct": 92
+  },
+  {
+   "name": "waqst",
+   "list": "closest",
+   "rank": 8,
+   "figure": "Joe Rogan",
+   "match_pct": 92
+  },
+  {
+   "name": "waqst",
+   "list": "furthest",
+   "rank": 1,
+   "figure": "Joseph Stalin",
+   "match_pct": ""
+  },
+  {
+   "name": "waqst",
+   "list": "furthest",
+   "rank": 2,
+   "figure": "Pol Pot",
+   "match_pct": ""
+  },
+  {
+   "name": "waqst",
+   "list": "furthest",
+   "rank": 3,
+   "figure": "Joseph Goebbels",
+   "match_pct": ""
+  },
+  {
+   "name": "dumfries",
+   "list": "closest",
+   "rank": 1,
+   "figure": "Olaf Scholz",
+   "match_pct": 96
+  },
+  {
+   "name": "dumfries",
+   "list": "closest",
+   "rank": 2,
+   "figure": "José Serra",
+   "match_pct": 95
+  },
+  {
+   "name": "dumfries",
+   "list": "closest",
+   "rank": 3,
+   "figure": "Rafael Fonteles",
+   "match_pct": 95
+  },
+  {
+   "name": "dumfries",
+   "list": "closest",
+   "rank": 4,
+   "figure": "Jonas Gahr Støre",
+   "match_pct": 95
+  },
+  {
+   "name": "dumfries",
+   "list": "closest",
+   "rank": 5,
+   "figure": "Fernando Haddad",
+   "match_pct": 94
+  },
+  {
+   "name": "dumfries",
+   "list": "closest",
+   "rank": 6,
+   "figure": "Kalevi Sorsa",
+   "match_pct": 94
+  },
+  {
+   "name": "dumfries",
+   "list": "closest",
+   "rank": 7,
+   "figure": "Gabriel Boric",
+   "match_pct": 94
+  },
+  {
+   "name": "dumfries",
+   "list": "closest",
+   "rank": 8,
+   "figure": "Pedro Sánchez",
+   "match_pct": 94
+  },
+  {
+   "name": "dumfries",
+   "list": "furthest",
+   "rank": 1,
+   "figure": "Pol Pot",
+   "match_pct": ""
+  },
+  {
+   "name": "dumfries",
+   "list": "furthest",
+   "rank": 2,
+   "figure": "Heinrich Himmler",
+   "match_pct": ""
+  },
+  {
+   "name": "dumfries",
+   "list": "furthest",
+   "rank": 3,
+   "figure": "Joseph Goebbels",
+   "match_pct": ""
+  },
+  {
+   "name": "vald",
+   "list": "closest",
+   "rank": 1,
+   "figure": "Martin Luther",
+   "match_pct": 94
+  },
+  {
+   "name": "vald",
+   "list": "closest",
+   "rank": 2,
+   "figure": "Otto Strasser",
+   "match_pct": 94
+  },
+  {
+   "name": "vald",
+   "list": "closest",
+   "rank": 3,
+   "figure": "René Guénon",
+   "match_pct": 93
+  },
+  {
+   "name": "vald",
+   "list": "closest",
+   "rank": 4,
+   "figure": "Thomas Müntzer",
+   "match_pct": 92
+  },
+  {
+   "name": "vald",
+   "list": "closest",
+   "rank": 5,
+   "figure": "Charlemagne",
+   "match_pct": 92
+  },
+  {
+   "name": "vald",
+   "list": "closest",
+   "rank": 6,
+   "figure": "Muammar Gaddafi",
+   "match_pct": 91
+  },
+  {
+   "name": "vald",
+   "list": "closest",
+   "rank": 7,
+   "figure": "Engelbert Dollfuss",
+   "match_pct": 90
+  },
+  {
+   "name": "vald",
+   "list": "closest",
+   "rank": 8,
+   "figure": "Raphael Machado",
+   "match_pct": 90
+  },
+  {
+   "name": "vald",
+   "list": "furthest",
+   "rank": 1,
+   "figure": "Ezra Heywood",
+   "match_pct": ""
+  },
+  {
+   "name": "vald",
+   "list": "furthest",
+   "rank": 2,
+   "figure": "Satoshi Nakamoto",
+   "match_pct": ""
+  },
+  {
+   "name": "vald",
+   "list": "furthest",
+   "rank": 3,
+   "figure": "Chase Oliver",
+   "match_pct": ""
+  },
+  {
+   "name": "zeno",
+   "list": "closest",
+   "rank": 1,
+   "figure": "Samora Machel",
+   "match_pct": 91
+  },
+  {
+   "name": "zeno",
+   "list": "closest",
+   "rank": 2,
+   "figure": "Ho Chi Minh",
+   "match_pct": 91
+  },
+  {
+   "name": "zeno",
+   "list": "closest",
+   "rank": 3,
+   "figure": "Mao Zedong",
+   "match_pct": 91
+  },
+  {
+   "name": "zeno",
+   "list": "closest",
+   "rank": 4,
+   "figure": "Ernst Niekisch",
+   "match_pct": 91
+  },
+  {
+   "name": "zeno",
+   "list": "closest",
+   "rank": 5,
+   "figure": "Zhou Enlai",
+   "match_pct": 90
+  },
+  {
+   "name": "zeno",
+   "list": "closest",
+   "rank": 6,
+   "figure": "Fidel Castro",
+   "match_pct": 90
+  },
+  {
+   "name": "zeno",
+   "list": "closest",
+   "rank": 7,
+   "figure": "Mustafa Kemal Atatürk",
+   "match_pct": 89
+  },
+  {
+   "name": "zeno",
+   "list": "closest",
+   "rank": 8,
+   "figure": "János Kádár",
+   "match_pct": 89
+  },
+  {
+   "name": "zeno",
+   "list": "furthest",
+   "rank": 1,
+   "figure": "Ron Paul",
+   "match_pct": ""
+  },
+  {
+   "name": "zeno",
+   "list": "furthest",
+   "rank": 2,
+   "figure": "Frédéric Bastiat",
+   "match_pct": ""
+  },
+  {
+   "name": "zeno",
+   "list": "furthest",
+   "rank": 3,
+   "figure": "Rand Paul",
+   "match_pct": ""
+  },
+  {
+   "name": "pbc",
+   "list": "closest",
+   "rank": 1,
+   "figure": "Tiberius Gracchus",
+   "match_pct": 94
+  },
+  {
+   "name": "pbc",
+   "list": "closest",
+   "rank": 2,
+   "figure": "Gaius Gracchus",
+   "match_pct": 93
+  },
+  {
+   "name": "pbc",
+   "list": "closest",
+   "rank": 3,
+   "figure": "Cabo Daciolo",
+   "match_pct": 89
+  },
+  {
+   "name": "pbc",
+   "list": "closest",
+   "rank": 4,
+   "figure": "Andrzej Duda",
+   "match_pct": 89
+  },
+  {
+   "name": "pbc",
+   "list": "closest",
+   "rank": 5,
+   "figure": "Tucker Carlson",
+   "match_pct": 88
+  },
+  {
+   "name": "pbc",
+   "list": "closest",
+   "rank": 6,
+   "figure": "Michael Collins",
+   "match_pct": 87
+  },
+  {
+   "name": "pbc",
+   "list": "closest",
+   "rank": 7,
+   "figure": "Péter Magyar",
+   "match_pct": 87
+  },
+  {
+   "name": "pbc",
+   "list": "closest",
+   "rank": 8,
+   "figure": "Itamar Franco",
+   "match_pct": 86
+  },
+  {
+   "name": "pbc",
+   "list": "furthest",
+   "rank": 1,
+   "figure": "Ezra Heywood",
+   "match_pct": ""
+  },
+  {
+   "name": "pbc",
+   "list": "furthest",
+   "rank": 2,
+   "figure": "Satoshi Nakamoto",
+   "match_pct": ""
+  },
+  {
+   "name": "pbc",
+   "list": "furthest",
+   "rank": 3,
+   "figure": "Samuel Edward Konkin III",
+   "match_pct": ""
+  },
+  {
+   "name": "maple",
+   "list": "closest",
+   "rank": 1,
+   "figure": "Keir Starmer",
+   "match_pct": 95
+  },
+  {
+   "name": "maple",
+   "list": "closest",
+   "rank": 2,
+   "figure": "John Healey",
+   "match_pct": 93
+  },
+  {
+   "name": "maple",
+   "list": "closest",
+   "rank": 3,
+   "figure": "Giuseppe Garibaldi",
+   "match_pct": 91
+  },
+  {
+   "name": "maple",
+   "list": "closest",
+   "rank": 4,
+   "figure": "Emmanuel Macron",
+   "match_pct": 90
+  },
+  {
+   "name": "maple",
+   "list": "closest",
+   "rank": 5,
+   "figure": "Olaf Scholz",
+   "match_pct": 90
+  },
+  {
+   "name": "maple",
+   "list": "closest",
+   "rank": 6,
+   "figure": "Rob Jetten",
+   "match_pct": 90
+  },
+  {
+   "name": "maple",
+   "list": "closest",
+   "rank": 7,
+   "figure": "Georges Danton",
+   "match_pct": 89
+  },
+  {
+   "name": "maple",
+   "list": "closest",
+   "rank": 8,
+   "figure": "François Mitterrand",
+   "match_pct": 89
+  },
+  {
+   "name": "maple",
+   "list": "furthest",
+   "rank": 1,
+   "figure": "Paulo Kogos",
+   "match_pct": ""
+  },
+  {
+   "name": "maple",
+   "list": "furthest",
+   "rank": 2,
+   "figure": "Ron Paul",
+   "match_pct": ""
+  },
+  {
+   "name": "maple",
+   "list": "furthest",
+   "rank": 3,
+   "figure": "Hans-Hermann Hoppe",
+   "match_pct": ""
+  },
+  {
+   "name": "tsuki",
+   "list": "closest",
+   "rank": 1,
+   "figure": "Mark Zuckerberg",
+   "match_pct": 94
+  },
+  {
+   "name": "tsuki",
+   "list": "closest",
+   "rank": 2,
+   "figure": "Jeff Bezos",
+   "match_pct": 92
+  },
+  {
+   "name": "tsuki",
+   "list": "closest",
+   "rank": 3,
+   "figure": "Renan Santos",
+   "match_pct": 90
+  },
+  {
+   "name": "tsuki",
+   "list": "closest",
+   "rank": 4,
+   "figure": "Alex Karp",
+   "match_pct": 90
+  },
+  {
+   "name": "tsuki",
+   "list": "closest",
+   "rank": 5,
+   "figure": "Max Weber",
+   "match_pct": 89
+  },
+  {
+   "name": "tsuki",
+   "list": "closest",
+   "rank": 6,
+   "figure": "Reza Pahlavi",
+   "match_pct": 89
+  },
+  {
+   "name": "tsuki",
+   "list": "closest",
+   "rank": 7,
+   "figure": "Mark Rutte",
+   "match_pct": 89
+  },
+  {
+   "name": "tsuki",
+   "list": "closest",
+   "rank": 8,
+   "figure": "J. Robert Oppenheimer",
+   "match_pct": 88
+  },
+  {
+   "name": "tsuki",
+   "list": "furthest",
+   "rank": 1,
+   "figure": "John Ball",
+   "match_pct": ""
+  },
+  {
+   "name": "tsuki",
+   "list": "furthest",
+   "rank": 2,
+   "figure": "Gerrard Winstanley",
+   "match_pct": ""
+  },
+  {
+   "name": "tsuki",
+   "list": "furthest",
+   "rank": 3,
+   "figure": "Bob Marley",
+   "match_pct": ""
+  },
+  {
+   "name": "angry",
+   "list": "closest",
+   "rank": 1,
+   "figure": "Thomas Hobbes",
+   "match_pct": 91
+  },
+  {
+   "name": "angry",
+   "list": "closest",
+   "rank": 2,
+   "figure": "Max Weber",
+   "match_pct": 91
+  },
+  {
+   "name": "angry",
+   "list": "closest",
+   "rank": 3,
+   "figure": "Frederick the Great",
+   "match_pct": 91
+  },
+  {
+   "name": "angry",
+   "list": "closest",
+   "rank": 4,
+   "figure": "Eduard Limonov",
+   "match_pct": 90
+  },
+  {
+   "name": "angry",
+   "list": "closest",
+   "rank": 5,
+   "figure": "Sergei Korolev",
+   "match_pct": 90
+  },
+  {
+   "name": "angry",
+   "list": "closest",
+   "rank": 6,
+   "figure": "Józef Piłsudski",
+   "match_pct": 90
+  },
+  {
+   "name": "angry",
+   "list": "closest",
+   "rank": 7,
+   "figure": "Georges Danton",
+   "match_pct": 90
+  },
+  {
+   "name": "angry",
+   "list": "closest",
+   "rank": 8,
+   "figure": "Louis Auguste Blanqui",
+   "match_pct": 90
+  },
+  {
+   "name": "angry",
+   "list": "furthest",
+   "rank": 1,
+   "figure": "Chase Oliver",
+   "match_pct": ""
+  },
+  {
+   "name": "angry",
+   "list": "furthest",
+   "rank": 2,
+   "figure": "Ron Paul",
+   "match_pct": ""
+  },
+  {
+   "name": "angry",
+   "list": "furthest",
+   "rank": 3,
+   "figure": "Ezra Heywood",
+   "match_pct": ""
+  },
+  {
+   "name": "Homestead",
+   "list": "closest",
+   "rank": 1,
+   "figure": "Leonid Brezhnev",
+   "match_pct": 97
+  },
+  {
+   "name": "Homestead",
+   "list": "closest",
+   "rank": 2,
+   "figure": "Xi Jinping",
+   "match_pct": 96
+  },
+  {
+   "name": "Homestead",
+   "list": "closest",
+   "rank": 3,
+   "figure": "Kim Jong Un",
+   "match_pct": 94
+  },
+  {
+   "name": "Homestead",
+   "list": "closest",
+   "rank": 4,
+   "figure": "Floriano Peixoto",
+   "match_pct": 93
+  },
+  {
+   "name": "Homestead",
+   "list": "closest",
+   "rank": 5,
+   "figure": "Fidel Castro",
+   "match_pct": 93
+  },
+  {
+   "name": "Homestead",
+   "list": "closest",
+   "rank": 6,
+   "figure": "Ramiro Ledesma Ramos",
+   "match_pct": 93
+  },
+  {
+   "name": "Homestead",
+   "list": "closest",
+   "rank": 7,
+   "figure": "Joseph Stalin",
+   "match_pct": 93
+  },
+  {
+   "name": "Homestead",
+   "list": "closest",
+   "rank": 8,
+   "figure": "Mao Zedong",
+   "match_pct": 92
+  },
+  {
+   "name": "Homestead",
+   "list": "furthest",
+   "rank": 1,
+   "figure": "Bob Dylan",
+   "match_pct": ""
+  },
+  {
+   "name": "Homestead",
+   "list": "furthest",
+   "rank": 2,
+   "figure": "Diogenes of Sinope",
+   "match_pct": ""
+  },
+  {
+   "name": "Homestead",
+   "list": "furthest",
+   "rank": 3,
+   "figure": "Muhammad Ali",
+   "match_pct": ""
+  },
+  {
+   "name": "Other Homestead",
+   "list": "closest",
+   "rank": 1,
+   "figure": "Bob Dylan",
+   "match_pct": 93
+  },
+  {
+   "name": "Other Homestead",
+   "list": "closest",
+   "rank": 2,
+   "figure": "Jimmy Carter",
+   "match_pct": 91
+  },
+  {
+   "name": "Other Homestead",
+   "list": "closest",
+   "rank": 3,
+   "figure": "Charles III",
+   "match_pct": 91
+  },
+  {
+   "name": "Other Homestead",
+   "list": "closest",
+   "rank": 4,
+   "figure": "Otto von Habsburg",
+   "match_pct": 91
+  },
+  {
+   "name": "Other Homestead",
+   "list": "closest",
+   "rank": 5,
+   "figure": "John Locke",
+   "match_pct": 90
+  },
+  {
+   "name": "Other Homestead",
+   "list": "closest",
+   "rank": 6,
+   "figure": "Michael Jackson",
+   "match_pct": 90
+  },
+  {
+   "name": "Other Homestead",
+   "list": "closest",
+   "rank": 7,
+   "figure": "John Mackey",
+   "match_pct": 88
+  },
+  {
+   "name": "Other Homestead",
+   "list": "closest",
+   "rank": 8,
+   "figure": "Luiz Felipe Pondé",
+   "match_pct": 88
+  },
+  {
+   "name": "Other Homestead",
+   "list": "furthest",
+   "rank": 1,
+   "figure": "Joseph Goebbels",
+   "match_pct": ""
+  },
+  {
+   "name": "Other Homestead",
+   "list": "furthest",
+   "rank": 2,
+   "figure": "Joseph Stalin",
+   "match_pct": ""
+  },
+  {
+   "name": "Other Homestead",
+   "list": "furthest",
+   "rank": 3,
+   "figure": "Kim Jong Un",
+   "match_pct": ""
+  }
+ ],
+ "places_top10": [
+  {
+   "name": "mockas",
+   "places": [
+    "Cuba",
+    "China",
+    "Venezuela",
+    "Chongqing (China)",
+    "Vietnam",
+    "Shenzhen (China)",
+    "France",
+    "Rwanda",
+    "Belarus",
+    "Burkina Faso"
+   ],
+   "match_pct": [
+    88,
+    83,
+    82,
+    81,
+    80,
+    79,
+    78,
+    76,
+    75,
+    75
+   ]
+  },
+  {
+   "name": "deus(ss)",
+   "places": [
+    "North Korea",
+    "China",
+    "Russia",
+    "Belarus",
+    "Myanmar",
+    "Iran",
+    "Chongqing (China)",
+    "Saudi Arabia",
+    "Rwanda",
+    "Egypt"
+   ],
+   "match_pct": [
+    94,
+    89,
+    89,
+    87,
+    84,
+    82,
+    81,
+    81,
+    80,
+    80
+   ]
+  },
+  {
+   "name": "minepro",
+   "places": [
+    "France",
+    "United Kingdom",
+    "Australia",
+    "England (United Kingdom)",
+    "Washington, D.C. (United States)",
+    "Estonia",
+    "Czechia",
+    "Ukraine",
+    "South Korea",
+    "Taiwan"
+   ],
+   "match_pct": [
+    88,
+    86,
+    85,
+    85,
+    85,
+    84,
+    84,
+    84,
+    83,
+    83
+   ]
+  },
+  {
+   "name": "kri",
+   "places": [
+    "Florida (United States)",
+    "Goiás (Brazil)",
+    "El Salvador",
+    "Texas (United States)",
+    "Paraná (Brazil)",
+    "Alabama (United States)",
+    "Santa Catarina (Brazil)",
+    "Utah (United States)",
+    "Madrid (Spain)",
+    "Armenia"
+   ],
+   "match_pct": [
+    91,
+    91,
+    90,
+    90,
+    88,
+    87,
+    86,
+    85,
+    85,
+    85
+   ]
+  },
+  {
+   "name": "waqst",
+   "places": [
+    "Lebanon",
+    "Puerto Rico (United States)",
+    "Switzerland",
+    "Bosnia and Herzegovina",
+    "Rio Grande do Sul (Brazil)",
+    "Bavaria (Germany)",
+    "Czechia",
+    "Veneto (Italy)",
+    "Alaska (United States)",
+    "Arizona (United States)"
+   ],
+   "match_pct": [
+    93,
+    93,
+    92,
+    92,
+    91,
+    90,
+    90,
+    90,
+    89,
+    89
+   ]
+  },
+  {
+   "name": "dumfries",
+   "places": [
+    "Rio de Janeiro (Brazil)",
+    "Norway",
+    "Germany",
+    "Spain",
+    "European Union",
+    "Chile",
+    "Finland",
+    "South Africa",
+    "Quebec (Canada)",
+    "Belgium"
+   ],
+   "match_pct": [
+    97,
+    96,
+    96,
+    96,
+    95,
+    94,
+    94,
+    94,
+    94,
+    94
+   ]
+  },
+  {
+   "name": "vald",
+   "places": [
+    "Yemen",
+    "Ethiopia",
+    "Dagestan (Russia)",
+    "Zimbabwe",
+    "Iraq",
+    "Iran",
+    "Algeria",
+    "Oman",
+    "Egypt",
+    "Burkina Faso"
+   ],
+   "match_pct": [
+    88,
+    87,
+    86,
+    85,
+    85,
+    85,
+    84,
+    84,
+    84,
+    84
+   ]
+  },
+  {
+   "name": "zeno",
+   "places": [
+    "Cuba",
+    "Venezuela",
+    "China",
+    "Chongqing (China)",
+    "North Korea",
+    "Vietnam",
+    "Belarus",
+    "Burkina Faso",
+    "Shenzhen (China)",
+    "Algeria"
+   ],
+   "match_pct": [
+    93,
+    86,
+    85,
+    84,
+    82,
+    81,
+    78,
+    77,
+    77,
+    76
+   ]
+  },
+  {
+   "name": "pbc",
+   "places": [
+    "Croatia",
+    "Pennsylvania (United States)",
+    "Romania",
+    "Poland",
+    "Lithuania",
+    "Italy",
+    "Cyprus",
+    "Bulgaria",
+    "Armenia",
+    "Mongolia"
+   ],
+   "match_pct": [
+    89,
+    84,
+    84,
+    84,
+    83,
+    83,
+    83,
+    83,
+    82,
+    82
+   ]
+  },
+  {
+   "name": "maple",
+   "places": [
+    "France",
+    "Finland",
+    "England (United Kingdom)",
+    "Australia",
+    "Taiwan",
+    "United Kingdom",
+    "Illinois (United States)",
+    "European Union",
+    "Norway",
+    "Czechia"
+   ],
+   "match_pct": [
+    94,
+    88,
+    87,
+    86,
+    86,
+    85,
+    85,
+    84,
+    84,
+    84
+   ]
+  },
+  {
+   "name": "tsuki",
+   "places": [
+    "Estonia",
+    "Nevada (United States)",
+    "Taiwan",
+    "Washington, D.C. (United States)",
+    "Australia",
+    "United Kingdom",
+    "England (United Kingdom)",
+    "Ukraine",
+    "Hong Kong (China)",
+    "United States"
+   ],
+   "match_pct": [
+    87,
+    84,
+    84,
+    83,
+    83,
+    82,
+    81,
+    81,
+    81,
+    80
+   ]
+  },
+  {
+   "name": "angry",
+   "places": [
+    "France",
+    "China",
+    "Rwanda",
+    "Cuba",
+    "Vietnam",
+    "Chongqing (China)",
+    "Shenzhen (China)",
+    "South Korea",
+    "England (United Kingdom)",
+    "Ukraine"
+   ],
+   "match_pct": [
+    88,
+    87,
+    87,
+    85,
+    84,
+    84,
+    83,
+    82,
+    81,
+    81
+   ]
+  },
+  {
+   "name": "Homestead",
+   "places": [
+    "China",
+    "Chongqing (China)",
+    "North Korea",
+    "Belarus",
+    "Cuba",
+    "Russia",
+    "Rwanda",
+    "Shenzhen (China)",
+    "Tajikistan",
+    "Vietnam"
+   ],
+   "match_pct": [
+    94,
+    91,
+    90,
+    87,
+    86,
+    85,
+    84,
+    83,
+    83,
+    82
+   ]
+  },
+  {
+   "name": "Other Homestead",
+   "places": [
+    "Switzerland",
+    "Lebanon",
+    "Puerto Rico (United States)",
+    "Rio Grande do Sul (Brazil)",
+    "Veneto (Italy)",
+    "Belgium",
+    "Brazil",
+    "Costa Rica",
+    "Argentina",
+    "São Paulo (Brazil)"
+   ],
+   "match_pct": [
+    89,
+    88,
+    88,
+    88,
+    87,
+    86,
+    86,
+    86,
+    86,
+    86
+   ]
+  }
+ ],
+ "cabinets": [
+  {
+   "name": "mockas",
+   "seat": "Political leader",
+   "holder": "Gabriele D'Annunzio",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "mockas",
+   "seat": "Deputy political leader",
+   "holder": "Nikita Khrushchev",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "mockas",
+   "seat": "Head of Economy",
+   "holder": "Friedrich List",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "mockas",
+   "seat": "Head of Education",
+   "holder": "Sergei Korolev",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "mockas",
+   "seat": "Chief of Political Strategy",
+   "holder": "Ernst Niekisch",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "mockas",
+   "seat": "Philosophical Adviser",
+   "holder": "Oswald Spengler",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "mockas",
+   "seat": "Coordinator of Social Affairs",
+   "holder": "Che Guevara",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "mockas",
+   "seat": "Coordinator of Industry and Innovation",
+   "holder": "Rong Yiren",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "mockas",
+   "seat": "Cultural Adviser",
+   "holder": "Auguste Comte",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "deus(ss)",
+   "seat": "Political leader",
+   "holder": "Joseph Goebbels",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "deus(ss)",
+   "seat": "Deputy political leader",
+   "holder": "Adolf Hitler",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "deus(ss)",
+   "seat": "Head of Economy",
+   "holder": "Friedrich List",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "deus(ss)",
+   "seat": "Head of Education",
+   "holder": "Zakhar Prilepin",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "deus(ss)",
+   "seat": "Chief of Political Strategy",
+   "holder": "Giovanni Gentile",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "deus(ss)",
+   "seat": "Philosophical Adviser",
+   "holder": "Oswald Spengler",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "deus(ss)",
+   "seat": "Coordinator of Social Affairs",
+   "holder": "Che Guevara",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "deus(ss)",
+   "seat": "Coordinator of Industry and Innovation",
+   "holder": "Rong Yiren",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "deus(ss)",
+   "seat": "Cultural Adviser",
+   "holder": "Ruhollah Khomeini",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "minepro",
+   "seat": "Political leader",
+   "holder": "Emmanuel Macron",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "minepro",
+   "seat": "Deputy political leader",
+   "holder": "Gabriele D'Annunzio",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "minepro",
+   "seat": "Head of Economy",
+   "holder": "Friedrich List",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "minepro",
+   "seat": "Head of Education",
+   "holder": "Max Weber",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "minepro",
+   "seat": "Chief of Political Strategy",
+   "holder": "Niccolò Machiavelli",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "minepro",
+   "seat": "Philosophical Adviser",
+   "holder": "Thomas Hobbes",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "minepro",
+   "seat": "Coordinator of Social Affairs",
+   "holder": "Renan Santos",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "minepro",
+   "seat": "Coordinator of Industry and Innovation",
+   "holder": "Alex Karp",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "minepro",
+   "seat": "Cultural Adviser",
+   "holder": "Friedrich Nietzsche",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "kri",
+   "seat": "Political leader",
+   "holder": "Jair Bolsonaro",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "kri",
+   "seat": "Deputy political leader",
+   "holder": "Carlos Lacerda",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "kri",
+   "seat": "Head of Economy",
+   "holder": "Roberto Campos",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "kri",
+   "seat": "Head of Education",
+   "holder": "Isaac Newton",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "kri",
+   "seat": "Chief of Political Strategy",
+   "holder": "John C. Calhoun",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "kri",
+   "seat": "Philosophical Adviser",
+   "holder": "Edmund Burke",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "kri",
+   "seat": "Coordinator of Social Affairs",
+   "holder": "Nikolas Ferreira",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "kri",
+   "seat": "Coordinator of Industry and Innovation",
+   "holder": "Henry Clay Frick",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "kri",
+   "seat": "Cultural Adviser",
+   "holder": "Thomas Aquinas",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "waqst",
+   "seat": "Political leader",
+   "holder": "James Madison",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "waqst",
+   "seat": "Deputy political leader",
+   "holder": "Otto von Habsburg",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "waqst",
+   "seat": "Head of Economy",
+   "holder": "Friedrich Hayek",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "waqst",
+   "seat": "Head of Education",
+   "holder": "Richard Rasmussen",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "waqst",
+   "seat": "Chief of Political Strategy",
+   "holder": "Thomas Paine",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "waqst",
+   "seat": "Philosophical Adviser",
+   "holder": "John Locke",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "waqst",
+   "seat": "Coordinator of Social Affairs",
+   "holder": "Nando Moura",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "waqst",
+   "seat": "Coordinator of Industry and Innovation",
+   "holder": "John Mackey",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "waqst",
+   "seat": "Cultural Adviser",
+   "holder": "Charles Darwin",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "dumfries",
+   "seat": "Political leader",
+   "holder": "Olaf Scholz",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "dumfries",
+   "seat": "Deputy political leader",
+   "holder": "José Serra",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "dumfries",
+   "seat": "Head of Economy",
+   "holder": "Luiz Carlos Bresser-Pereira",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "dumfries",
+   "seat": "Head of Education",
+   "holder": "Alexandre de Moraes",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "dumfries",
+   "seat": "Chief of Political Strategy",
+   "holder": "Amílcar Cabral",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "dumfries",
+   "seat": "Philosophical Adviser",
+   "holder": "John Rawls",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "dumfries",
+   "seat": "Coordinator of Social Affairs",
+   "holder": "Al Gore",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "dumfries",
+   "seat": "Coordinator of Industry and Innovation",
+   "holder": "Adriano Olivetti",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "dumfries",
+   "seat": "Cultural Adviser",
+   "holder": "Sigmund Freud",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "vald",
+   "seat": "Political leader",
+   "holder": "Charlemagne",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "vald",
+   "seat": "Deputy political leader",
+   "holder": "Muammar Gaddafi",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "vald",
+   "seat": "Head of Economy",
+   "holder": "Thomas Malthus",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "vald",
+   "seat": "Head of Education",
+   "holder": "Dante Alighieri",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "vald",
+   "seat": "Chief of Political Strategy",
+   "holder": "Otto Strasser",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "vald",
+   "seat": "Philosophical Adviser",
+   "holder": "Joseph de Maistre",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "vald",
+   "seat": "Coordinator of Social Affairs",
+   "holder": "Raphael Machado",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "vald",
+   "seat": "Coordinator of Industry and Innovation",
+   "holder": "Henry Ford",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "vald",
+   "seat": "Cultural Adviser",
+   "holder": "Martin Luther",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "zeno",
+   "seat": "Political leader",
+   "holder": "Samora Machel",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "zeno",
+   "seat": "Deputy political leader",
+   "holder": "Ho Chi Minh",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "zeno",
+   "seat": "Head of Economy",
+   "holder": "Oskar Lange",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "zeno",
+   "seat": "Head of Education",
+   "holder": "Domenico Losurdo",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "zeno",
+   "seat": "Chief of Political Strategy",
+   "holder": "Ernst Niekisch",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "zeno",
+   "seat": "Philosophical Adviser",
+   "holder": "Thomas Hobbes",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "zeno",
+   "seat": "Coordinator of Social Affairs",
+   "holder": "Che Guevara",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "zeno",
+   "seat": "Coordinator of Industry and Innovation",
+   "holder": "Rong Yiren",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "zeno",
+   "seat": "Cultural Adviser",
+   "holder": "Auguste Comte",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "pbc",
+   "seat": "Political leader",
+   "holder": "Tiberius Gracchus",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "pbc",
+   "seat": "Deputy political leader",
+   "holder": "Gaius Gracchus",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "pbc",
+   "seat": "Head of Economy",
+   "holder": "William Beveridge",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "pbc",
+   "seat": "Head of Education",
+   "holder": "Tucker Carlson",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "pbc",
+   "seat": "Chief of Political Strategy",
+   "holder": "Alain de Benoist",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "pbc",
+   "seat": "Philosophical Adviser",
+   "holder": "Michael Sandel",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "pbc",
+   "seat": "Coordinator of Social Affairs",
+   "holder": "Malcolm X",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "pbc",
+   "seat": "Coordinator of Industry and Innovation",
+   "holder": "Adriano Olivetti",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "pbc",
+   "seat": "Cultural Adviser",
+   "holder": "Bezerra de Menezes",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "maple",
+   "seat": "Political leader",
+   "holder": "Keir Starmer",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "maple",
+   "seat": "Deputy political leader",
+   "holder": "John Healey",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "maple",
+   "seat": "Head of Economy",
+   "holder": "Elias Jabbour",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "maple",
+   "seat": "Head of Education",
+   "holder": "J. Robert Oppenheimer",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "maple",
+   "seat": "Chief of Political Strategy",
+   "holder": "Amílcar Cabral",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "maple",
+   "seat": "Philosophical Adviser",
+   "holder": "John Rawls",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "maple",
+   "seat": "Coordinator of Social Affairs",
+   "holder": "Al Gore",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "maple",
+   "seat": "Coordinator of Industry and Innovation",
+   "holder": "Alex Karp",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "maple",
+   "seat": "Cultural Adviser",
+   "holder": "Sigmund Freud",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "tsuki",
+   "seat": "Political leader",
+   "holder": "Reza Pahlavi",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "tsuki",
+   "seat": "Deputy political leader",
+   "holder": "Mark Rutte",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "tsuki",
+   "seat": "Head of Economy",
+   "holder": "Roberto Campos",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "tsuki",
+   "seat": "Head of Education",
+   "holder": "Max Weber",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "tsuki",
+   "seat": "Chief of Political Strategy",
+   "holder": "Curtis Yarvin",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "tsuki",
+   "seat": "Philosophical Adviser",
+   "holder": "Leonard Peikoff",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "tsuki",
+   "seat": "Coordinator of Social Affairs",
+   "holder": "Renan Santos",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "tsuki",
+   "seat": "Coordinator of Industry and Innovation",
+   "holder": "Mark Zuckerberg",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "tsuki",
+   "seat": "Cultural Adviser",
+   "holder": "Friedrich Nietzsche",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "angry",
+   "seat": "Political leader",
+   "holder": "Frederick the Great",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "angry",
+   "seat": "Deputy political leader",
+   "holder": "Józef Piłsudski",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "angry",
+   "seat": "Head of Economy",
+   "holder": "Friedrich List",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "angry",
+   "seat": "Head of Education",
+   "holder": "Max Weber",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "angry",
+   "seat": "Chief of Political Strategy",
+   "holder": "Ferdinand Lassalle",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "angry",
+   "seat": "Philosophical Adviser",
+   "holder": "Thomas Hobbes",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "angry",
+   "seat": "Coordinator of Social Affairs",
+   "holder": "Renan Santos",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "angry",
+   "seat": "Coordinator of Industry and Innovation",
+   "holder": "Alex Karp",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "angry",
+   "seat": "Cultural Adviser",
+   "holder": "Auguste Comte",
+   "source": "12 Axes report",
+   "friend_based_guess": "",
+   "guess_borrowed_from": ""
+  },
+  {
+   "name": "Homestead",
+   "seat": "Political leader",
+   "holder": "Leonid Brezhnev",
+   "source": "12 Axes report",
+   "friend_based_guess": "Charlemagne",
+   "guess_borrowed_from": "vald"
+  },
+  {
+   "name": "Homestead",
+   "seat": "Deputy political leader",
+   "holder": "Xi Jinping",
+   "source": "12 Axes report",
+   "friend_based_guess": "Józef Piłsudski",
+   "guess_borrowed_from": "angry"
+  },
+  {
+   "name": "Homestead",
+   "seat": "Head of Economy",
+   "holder": "Friedrich List",
+   "source": "12 Axes report",
+   "friend_based_guess": "Friedrich List",
+   "guess_borrowed_from": "mockas"
+  },
+  {
+   "name": "Homestead",
+   "seat": "Head of Education",
+   "holder": "Sergei Korolev",
+   "source": "12 Axes report",
+   "friend_based_guess": "Max Weber",
+   "guess_borrowed_from": "angry"
+  },
+  {
+   "name": "Homestead",
+   "seat": "Chief of Political Strategy",
+   "holder": "Ramiro Ledesma Ramos",
+   "source": "12 Axes report",
+   "friend_based_guess": "Ernst Niekisch",
+   "guess_borrowed_from": "mockas"
+  },
+  {
+   "name": "Homestead",
+   "seat": "Philosophical Adviser",
+   "holder": "Oswald Spengler",
+   "source": "12 Axes report",
+   "friend_based_guess": "Joseph de Maistre",
+   "guess_borrowed_from": "vald"
+  },
+  {
+   "name": "Homestead",
+   "seat": "Coordinator of Social Affairs",
+   "holder": "Che Guevara",
+   "source": "12 Axes report",
+   "friend_based_guess": "Raphael Machado",
+   "guess_borrowed_from": "vald"
+  },
+  {
+   "name": "Homestead",
+   "seat": "Coordinator of Industry and Innovation",
+   "holder": "Rong Yiren",
+   "source": "12 Axes report",
+   "friend_based_guess": "Alex Karp",
+   "guess_borrowed_from": "angry"
+  },
+  {
+   "name": "Homestead",
+   "seat": "Cultural Adviser",
+   "holder": "Auguste Comte",
+   "source": "12 Axes report",
+   "friend_based_guess": "Auguste Comte",
+   "guess_borrowed_from": "angry"
+  },
+  {
+   "name": "Other Homestead",
+   "seat": "Political leader",
+   "holder": "Jimmy Carter",
+   "source": "12 Axes report",
+   "friend_based_guess": "James Madison",
+   "guess_borrowed_from": "waqst"
+  },
+  {
+   "name": "Other Homestead",
+   "seat": "Deputy political leader",
+   "holder": "Charles III",
+   "source": "12 Axes report",
+   "friend_based_guess": "Otto von Habsburg",
+   "guess_borrowed_from": "waqst"
+  },
+  {
+   "name": "Other Homestead",
+   "seat": "Head of Economy",
+   "holder": "Friedrich Hayek",
+   "source": "12 Axes report",
+   "friend_based_guess": "Roberto Campos",
+   "guess_borrowed_from": "tsuki"
+  },
+  {
+   "name": "Other Homestead",
+   "seat": "Head of Education",
+   "holder": "Bob Dylan",
+   "source": "12 Axes report",
+   "friend_based_guess": "Alexandre de Moraes",
+   "guess_borrowed_from": "dumfries"
+  },
+  {
+   "name": "Other Homestead",
+   "seat": "Chief of Political Strategy",
+   "holder": "Carlo Rosselli",
+   "source": "12 Axes report",
+   "friend_based_guess": "Otto Strasser",
+   "guess_borrowed_from": "vald"
+  },
+  {
+   "name": "Other Homestead",
+   "seat": "Philosophical Adviser",
+   "holder": "John Locke",
+   "source": "12 Axes report",
+   "friend_based_guess": "Leonard Peikoff",
+   "guess_borrowed_from": "tsuki"
+  },
+  {
+   "name": "Other Homestead",
+   "seat": "Coordinator of Social Affairs",
+   "holder": "Al Gore",
+   "source": "12 Axes report",
+   "friend_based_guess": "Al Gore",
+   "guess_borrowed_from": "maple"
+  },
+  {
+   "name": "Other Homestead",
+   "seat": "Coordinator of Industry and Innovation",
+   "holder": "John Mackey",
+   "source": "12 Axes report",
+   "friend_based_guess": "John Mackey",
+   "guess_borrowed_from": "waqst"
+  },
+  {
+   "name": "Other Homestead",
+   "seat": "Cultural Adviser",
+   "holder": "Charles Darwin",
+   "source": "12 Axes report",
+   "friend_based_guess": "Charles Darwin",
+   "guess_borrowed_from": "waqst"
+  }
+ ],
+ "homestead_derivation": [
+  {
+   "axis": "Structure",
+   "first_pole": "Federal",
+   "first_pole_top3": "vald 77 · waqst 65 · mockas bal",
+   "first_pole_avg": 64.0,
+   "second_pole": "Unitary",
+   "second_pole_top3": "zeno 85 · angry 78 · tsuki 68",
+   "second_pole_avg": 77.0,
+   "homestead_side": "Unitary",
+   "homestead_value": 77.0,
+   "other_homestead_side": "Federal",
+   "other_homestead_value": 64.0
+  },
+  {
+   "axis": "Economy",
+   "first_pole": "Public",
+   "first_pole_top3": "zeno 99 · vald 81 · mockas 75",
+   "first_pole_avg": 85.0,
+   "second_pole": "Private",
+   "second_pole_top3": "waqst 72 · kri 69 · tsuki 67",
+   "second_pole_avg": 69.3,
+   "homestead_side": "Public",
+   "homestead_value": 85.0,
+   "other_homestead_side": "Private",
+   "other_homestead_value": 69.3
+  },
+  {
+   "axis": "Representation",
+   "first_pole": "Democracy",
+   "first_pole_top3": "pbc 96 · maple 78 · dumfries 76",
+   "first_pole_avg": 83.3,
+   "second_pole": "Autocracy",
+   "second_pole_top3": "mockas 89 · zeno 85 · vald 83",
+   "second_pole_avg": 85.7,
+   "homestead_side": "Autocracy",
+   "homestead_value": 85.7,
+   "other_homestead_side": "Democracy",
+   "other_homestead_value": 83.3
+  },
+  {
+   "axis": "Control",
+   "first_pole": "Planning",
+   "first_pole_top3": "mockas 82 · pbc 79 · zeno 78",
+   "first_pole_avg": 79.7,
+   "second_pole": "Free market",
+   "second_pole_top3": "kri 70 · tsuki 66 · waqst bal",
+   "second_pole_avg": 62.0,
+   "homestead_side": "Planning",
+   "homestead_value": 79.7,
+   "other_homestead_side": "Free market",
+   "other_homestead_value": 62.0
+  },
+  {
+   "axis": "Power",
+   "first_pole": "Security",
+   "first_pole_top3": "vald 78 · zeno 77 · maple 63",
+   "first_pole_avg": 72.7,
+   "second_pole": "Liberty",
+   "second_pole_top3": "pbc 82 · waqst 69 · tsuki 61",
+   "second_pole_avg": 70.7,
+   "homestead_side": "Security",
+   "homestead_value": 72.7,
+   "other_homestead_side": "Liberty",
+   "other_homestead_value": 70.7
+  },
+  {
+   "axis": "Trade",
+   "first_pole": "Protectionism",
+   "first_pole_top3": "zeno 76 · vald 69 · mockas 63",
+   "first_pole_avg": 69.3,
+   "second_pole": "Globalism",
+   "second_pole_top3": "kri 69 · waqst 64 · tsuki 60",
+   "second_pole_avg": 64.3,
+   "homestead_side": "Protectionism",
+   "homestead_value": 69.3,
+   "other_homestead_side": "Globalism",
+   "other_homestead_value": 64.3
+  },
+  {
+   "axis": "Immigration",
+   "first_pole": "Assimilation",
+   "first_pole_top3": "kri 89 · pbc 79 · vald 72",
+   "first_pole_avg": 80.0,
+   "second_pole": "Multiculturalism",
+   "second_pole_top3": "tsuki 62 · waqst bal · maple bal",
+   "second_pole_avg": 54.0,
+   "homestead_side": "Assimilation",
+   "homestead_value": 80.0,
+   "other_homestead_side": "Multiculturalism",
+   "other_homestead_value": 54.0
+  },
+  {
+   "axis": "Religion",
+   "first_pole": "Irreligious",
+   "first_pole_top3": "zeno 97 · maple 95 · minepro 95",
+   "first_pole_avg": 95.7,
+   "second_pole": "Religious",
+   "second_pole_top3": "vald 99 · kri 68 · pbc 68",
+   "second_pole_avg": 78.3,
+   "homestead_side": "Irreligious",
+   "homestead_value": 95.7,
+   "other_homestead_side": "Religious",
+   "other_homestead_value": 78.3
+  },
+  {
+   "axis": "Diplomacy",
+   "first_pole": "Militarist",
+   "first_pole_top3": "minepro 81 · tsuki 80 · angry 79",
+   "first_pole_avg": 80.0,
+   "second_pole": "Pacifist",
+   "second_pole_top3": "dumfries 66 · vald bal · waqst bal",
+   "second_pole_avg": 55.3,
+   "homestead_side": "Militarist",
+   "homestead_value": 80.0,
+   "other_homestead_side": "Pacifist",
+   "other_homestead_value": 55.3
+  },
+  {
+   "axis": "Morality",
+   "first_pole": "Progressive",
+   "first_pole_top3": "dumfries 79 · zeno 75 · tsuki 74",
+   "first_pole_avg": 76.0,
+   "second_pole": "Traditionalist",
+   "second_pole_top3": "vald 90 · kri 90 · pbc 70",
+   "second_pole_avg": 83.3,
+   "homestead_side": "Traditionalist",
+   "homestead_value": 83.3,
+   "other_homestead_side": "Progressive",
+   "other_homestead_value": 76.0
+  },
+  {
+   "axis": "Intervention",
+   "first_pole": "Non-interventionist",
+   "first_pole_top3": "waqst 63 · dumfries bal · vald bal",
+   "first_pole_avg": 54.3,
+   "second_pole": "Nationalist",
+   "second_pole_top3": "angry 97 · mockas 89 · minepro 81",
+   "second_pole_avg": 89.0,
+   "homestead_side": "Nationalist",
+   "homestead_value": 89.0,
+   "other_homestead_side": "Non-interventionist",
+   "other_homestead_value": 54.3
+  },
+  {
+   "axis": "Technology",
+   "first_pole": "Technology",
+   "first_pole_top3": "kri 90 · tsuki 89 · angry 68",
+   "first_pole_avg": 82.3,
+   "second_pole": "Biology",
+   "second_pole_top3": "zeno 71 · vald 70 · pbc 64",
+   "second_pole_avg": 68.3,
+   "homestead_side": "Technology",
+   "homestead_value": 82.3,
+   "other_homestead_side": "Biology",
+   "other_homestead_value": 68.3
+  }
+ ],
+ "notes": {
+  "position_scale": "0 = fully toward the first pole, 100 = fully toward the second pole, 50 = Balanced",
+  "homestead_members": "Homestead and Other Homestead are computed from 11 members (deus(ss) excluded).",
+  "site_links": {
+   "Homestead": "https://12axes.vercel.app/results?est=23&rep=14&pod=73&imi=80&dip=80&int=11&eco=85&con=80&com=69&rel=96&mor=17&tec=82&lang=en",
+   "Other Homestead": "https://12axes.vercel.app/results?est=64&rep=83&pod=29&imi=46&dip=45&int=54&eco=31&con=38&com=36&rel=22&mor=76&tec=32&lang=en"
+  }
+ }
+}
